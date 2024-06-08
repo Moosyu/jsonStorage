@@ -1,5 +1,11 @@
 [
     {
+        "type": "Movie",
+        "name": "Interstellar",
+        "score": "10/10",
+        "description": "now my second favourite film of all time. geniune masterpiece and probably my favourite thing thats happened to me in the year 2024, either my life is sad or the the film is just that good (probably both)"
+    },
+    {
         "type": "TV Show",
         "name": "Nathan for You",
         "score": "9/10",
