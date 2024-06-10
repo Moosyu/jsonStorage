@@ -1,5 +1,19 @@
 [
 	{
+        "type": "Manhua",
+        "name": "Capybara and His Friends",
+        "score": "6/10",
+		"image": "https://i.imgur.com/0LxboMH.png",
+        "description": "sometimes you gotta read things with more pictures then words to regain youth"
+    },
+	{
+        "type": "Manhua",
+        "name": "BugCat-Capoo",
+        "score": "6/10",
+		"image": "https://i.imgur.com/JpSm1bj.png",
+        "description": "still has more content per chapter then komi"
+    },
+	{
         "type": "Manga",
         "name": "Zanuff the Butcher",
         "score": "4/10",
