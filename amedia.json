@@ -1,6 +1,27 @@
 [
 	{
         "type": "Manhua",
+        "name": "My Mom's a Superstar",
+        "score": "7/10",
+		"image": "",
+        "description": "fun manhua with art that doesnt make me want to rip my eyes out"
+    },
+	{
+        "type": "Manhua",
+        "name": "Distant Tundra",
+        "score": "7/10",
+		"image": "https://i.imgur.com/RNPWpU8.png",
+        "description": "im liking the start but its only 2 chapters so far so you never know"
+    },
+	{
+        "type": "Manhwa",
+        "name": "The Lazy Lord Masters the Sword",
+        "score": "6/10",
+		"image": "https://i.imgur.com/DO0EjTt.png",
+        "description": "crazy good start to fumble"
+    },
+	{
+        "type": "Manhua",
         "name": "Capybara and His Friends",
         "score": "6/10",
 		"image": "https://i.imgur.com/0LxboMH.png",
