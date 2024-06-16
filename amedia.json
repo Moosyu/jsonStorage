@@ -1,17 +1,66 @@
 [
 	{
+        "type": "Manga",
+        "name": "Vampire Dormitory",
+        "score": "3/10",
+		"image": "",
+        "description": "closer to porn then a coherent story"
+    },
+	{
+        "type": "Manga",
+        "name": "Memories of Emanon",
+        "score": "8/10",
+		"image": "https://i.imgur.com/KzQIve8.png",
+        "description": "very interesting manga, the characters have depth to them and it gives you something to think about. as it only takes about 10 minutes to read so id recommend it."
+    },
+	{
+        "type": "Manga",
+        "name": "Phoenix",
+        "score": "7/10",
+		"image": "",
+        "description": "great story but i really hate the art style of old comics. i feel bad about rating it like this because apparently it was the authors life work but not liking how a manga looks is a pretty big issue. id tell you to watch the anime but apparently its ass so yeah."
+    },
+	{
+        "type": "Manhua",
+        "name": "Ayeshah's Secret",
+        "score": "7/10",
+		"image": "https://i.imgur.com/u9tbUhU.png",
+        "description": "beautiful art with a pretty interesting mystery. felt a bit short but apparently there is another one called aisha which might solve my issues, ill check it out when it finishes. the incest definitely didnt help this manhuas situation though."
+    },
+	{
+        "type": "Manga",
+        "name": "5 Centimeters per Second",
+        "score": "6/10",
+		"image": "",
+        "description": "i just wasnt feeling this one, it was fine but i just wasnt that interested"
+    },
+	{
+        "type": "Manga",
+        "name": "Takopi's Original Sin",
+        "score": "7/10",
+		"image": "https://i.imgur.com/ywrPx17.jpeg",
+        "description": "maybe its because i read it all in like 30 minutes but i never really felt attached to the characters enough to feel bad about what was happening and takopiis existence was a little too jarring for me to get immersed idk. i give it a 7 but its very nearly a 6."
+    },
+	{
+        "type": "Manga",
+        "name": "Wizard and Red Pilgrim",
+        "score": "7/10",
+		"image": "https://i.imgur.com/Ee5oOsZ.png",
+        "description": "very surreal manga that i really loved reading but it would have been a lot better if it wasnt so rushed, could have done with 20 - 30 more chapters"
+    },
+	{
         "type": "Manhua",
         "name": "My Mom's a Superstar",
-        "score": "7/10",
+        "score": "6/10",
 		"image": "",
         "description": "fun manhua with art that doesnt make me want to rip my eyes out"
     },
 	{
         "type": "Manhua",
         "name": "Distant Tundra",
-        "score": "7/10",
+        "score": "6/10",
 		"image": "https://i.imgur.com/RNPWpU8.png",
-        "description": "im liking the start but its only 2 chapters so far so you never know"
+        "description": "im liked the start but as it only released 2 chapters before being dropped we'll never know how good it could have been"
     },
 	{
         "type": "Manhwa",
