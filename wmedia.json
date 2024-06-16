@@ -1,6 +1,12 @@
 [
     {
         "type": "Movie",
+        "name": "American Assassin",
+        "score": "3/10",
+        "description": "almost comically bad and probably only fun to watch if you have some people with you so you can complain to them about it. my favourite scene was where mitch rapp(i know his full name because for some reason his girlfriends says it instead of just mitch idk) teleports up 6 stories of an apartment building to break in through a window and it goes completely unexplained or maybe it was but i was laughing too hard to tell. according to my dad it doesnt even do a good job of being like the book."
+    },
+    {
+        "type": "Movie",
         "name": "Interstellar",
         "score": "10/10",
         "description": "now my second favourite film of all time. geniune masterpiece and probably my favourite thing thats happened to me in the year 2024, either my life is sad or the the film is just that good (probably both)"
