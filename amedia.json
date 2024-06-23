@@ -1,5 +1,68 @@
 [
 	{
+        "type": "Manhua",
+        "name": "Putting on a Mask",
+        "score": "7/10",
+		"image": "https://i.imgur.com/8O2oaNc.png",
+        "description": "maybe i just like the colour red. very short manhua that has a third chapter out there somewhere but might as well be lost media and as the chapters arent interconnected it doesnt really matter anyways."
+    },
+	{
+        "type": "Manhua",
+        "name": "The Red Over There Is Our Home",
+        "score": "7/10",
+		"image": "",
+        "description": "idk if three chapters is even a manhua but i liked the colours and it tells a story pretty well for only having 12 words in the actual panels"
+    },
+	{
+        "type": "Manhua",
+        "name": "The Red Over There Is Our Home",
+        "score": "7/10",
+		"image": "https://i.imgur.com/qx0Sx5S.png",
+        "description": "idk if three chapters is even a manhua but i liked the colours and it tells a story pretty well for only having 12 words in the actual panels"
+    },
+	{
+        "type": "Manhua",
+        "name": "Sin and Punishment",
+        "score": "6/10",
+		"image": "",
+        "description": "furry manhua that lasted three whole chapters and one was a prequel"
+    },
+	{
+        "type": "Manga",
+        "name": "Brainrot Girlfriend",
+        "score": "6/10",
+		"image": "https://i.imgur.com/BXgyqLD.png",
+        "description": "im sure the joke will get old real quick but i laughed out loud at chapter 5 so its about as funny as greatest estate developer"
+    },
+	{
+        "type": "Manhua",
+        "name": "Wild Child",
+        "score": "7/10",
+		"image": "https://i.imgur.com/2Ne3OLW.jpeg",
+        "description": "very nice short manhua with incredible art. every page could be a wallpaper."
+    },
+	{
+        "type": "Manga",
+        "name": "Usuzumi no Hate",
+        "score": "7/10",
+		"image": "https://i.imgur.com/imj5i5I.jpeg",
+        "description": "very interesting post apocalyptic manga, i feel like it may end up being a high 8 or 9 but we're only 20 chapters in rn"
+    },
+	{
+        "type": "Manga",
+        "name": "Even If You Slit My Mouth",
+        "score": "5/10",
+		"image": "https://i.imgur.com/B4oFfHE.png",
+        "description": "arts a bit above average but the pacings all over the place and its kind of boring"
+    },
+	{
+        "type": "Manga",
+        "name": "Hai to Gensou no Grimgar",
+        "score": "5/10",
+		"image": "",
+        "description": "i just didnt have fun with it idk kind of boring tbh"
+    },
+	{
         "type": "Manga",
         "name": "Vampire Dormitory",
         "score": "3/10",
@@ -2543,9 +2606,9 @@
     {
 		"type": "Manhwa",
 		"name": "Heavenly Demon Reborn!",
-		"score": "7/10",
+		"score": "6/10",
 		"image": "",
-		"description": "new 8/10 just dropped (after reading a lot of other stuff this retroactively became a 7/10 but im just gonna keep the original caption)"
+		"description": "new 8/10 just dropped (after reading a lot of other stuff this retroactively became a 7/10 but im just gonna keep the original caption) (after rereading im retroactivly dropping this down to a 6)"
 	},
     {
 		"type": "Anime",
