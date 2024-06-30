@@ -1,7 +1,22 @@
 [
 	{
-		"name": "Don't Look Back",
+		"name": "The Witcher 3",
+		"score": "10/10",
+		"description": "i bought this and its dlc for $20. ive played for well over 200 hours. thats all i have to say. even if it was double full price it would be well worth it."
+	},
+	{
+		"name": "The Witcher 2",
 		"score": "8/10",
+		"description": "honestly no clue how this is the same series as the witcher 1, the combat is fun (even though it seems like some people didnt like it), the game looks incredible and the sound design is very good. the only issue i had was a few bugs (not nearly as many as one though)"
+	},
+	{
+		"name": "The Witcher",
+		"score": "2/10",
+		"description": "i usually dont buy bad games, sadly i thought i could handle the combat and the textures arent too bad. guess i was wrong, the combat is straight up atrocious, i know its a product of its time but it feels more like a product of the 1950s. it crashes constantly and sometimes when you tab out the whole right monitor goes black until you close it on task manager. also the movement is ass."
+	},
+	{
+		"name": "Don't Look Back",
+		"score": "7/10",
 		"description": "my favourite flash game of all time, surely i dont like it just because of nostalgia, it only take about 8 minutes to beat so go play it"
 	},
 	{
@@ -21,7 +36,7 @@
 	},
 	{
 		"name": "Wynncraft",
-		"score": "8/10",
+		"score": "7/10",
 		"description": "not a game but its not minecraft anymore. its cool but also why does it break so often like i swear i have to rejoin ever second quest because the item just bugs out of existence or something."
 	},
 	{
@@ -31,12 +46,12 @@
 	},
 	{
 		"name": "World Box",
-		"score": "7/10",
+		"score": "6/10",
 		"description": "why do they hate the dwarves so much"
 	},
     {
 		"name": "Inscryption",
-		"score": "9/10",
+		"score": "8/10",
 		"description": "spooked"
 	},
     {
@@ -61,7 +76,7 @@
 	},
     {
 		"name": "Apex Legends",
-		"score": "7/10",
+		"score": "6/10",
 		"description": "remember when everyone thought this would be bigger than fortnite for like a week"
 	},
     {
@@ -71,7 +86,7 @@
 	},
     {
 		"name": "Night In The Woods",
-		"score": "9/10",
+		"score": "8/10",
 		"description": "i play for the minigames"
 	},
     {
@@ -81,7 +96,7 @@
 	},
     {
 		"name": "Super Meat Boy",
-		"score": "8/10",
+		"score": "7/10",
 		"description": "AHHHHHHHHHHHHHHHHHHHHHH"
 	},
     {
@@ -101,7 +116,7 @@
 	},
     {
 		"name": "Cookie Clicker",
-		"score": "7/10",
+		"score": "6/10",
 		"description": "i like the achievements"
 	},
     {
@@ -111,8 +126,8 @@
 	},
     {
 		"name": "The Elder Scrolls V: Skyrim",
-		"score": "9/10",
-		"description": "i love when a flying mammoth drops on you killing you instantly with mods its probably a 10/10 but sadly normal skyrim has way too many bugs for that"
+		"score": "8/10",
+		"description": "i love when a flying mammoth drops on you killing you instantly with mods its probably a 10/10 but sadly normal skyrim has way too many bugs for that as well as the worst combat ever"
 	},
     {
 		"name": "Subnautica Below Zero",
@@ -121,7 +136,7 @@
 	},
     {
 		"name": "Archvale",
-		"score": "7/10",
+		"score": "6/10",
 		"description": "spend 7 hours beating this game in one go"
 	},
     {
@@ -131,12 +146,12 @@
 	},
     {
 		"name": "Noita",
-		"score": "8/10",
+		"score": "7/10",
 		"description": "i sure do love accidentally killing myself with sawblades"
 	},
     {
 		"name": "Elden Ring",
-		"score": "8/10",
+		"score": "9/10",
 		"description": "my pc was roleplaying a bomb"
 	},
     {
@@ -156,12 +171,12 @@
 	},
     {
 		"name": "Genshin Impact",
-		"score": "6/10",
+		"score": "5/10",
 		"description": "i was going through a rough patch"
 	},
     {
 		"name": "Valorant",
-		"score": "8/10",
+		"score": "7/10",
 		"description": "i cant believe i spent $30 on a nerf gun"
 	},
     {
@@ -171,12 +186,12 @@
 	},
     {
 		"name": "Hades",
-		"score": "9/10",
+		"score": "8/10",
 		"description": "this game was rough"
 	},
     {
 		"name": "What Remains of Edith Finch",
-		"score": "9/10",
+		"score": "8/10",
 		"description": "its like reading"
 	},
     {
@@ -206,8 +221,8 @@
 	},
     {
 		"name": "Minecraft",
-		"score": "8/10",
-		"description": "first game i ever played. i died in lava, lost everything and cried for 30 minutes."
+		"score": "9/10",
+		"description": "first game i ever played. i died in lava, lost everything and cried for 30 minutes. mods is the only this keeping this going."
 	},
     {
 		"name": "GTA V",
@@ -221,7 +236,7 @@
 	},
     {
 		"name": "Enter the Gungeon",
-		"score": "9/10",
+		"score": "8/10",
 		"description": "i cant handle it anymore"
 	},
     {
@@ -231,7 +246,7 @@
 	},
     {
 		"name": "Stardew Valley",
-		"score": "3/10",
+		"score": "10/10",
 		"description": "10% of the game is playing 90% is looking at the wiki to optimise your day"
 	},
     {
@@ -241,7 +256,7 @@
 	},
     {
 		"name": "Garry's Mod",
-		"score": "9/10",
+		"score": "8/10",
 		"description": "im banned from like 20 servers"
 	},
     {
@@ -251,42 +266,42 @@
 	},
     {
 		"name": "Bloons TD: 6",
-		"score": "9/10",
+		"score": "8/10",
 		"description": "i have never yelled at my monitor as much as when i play with people in this"
 	},
     {
 		"name": "Garfield Kart: Furious Racing",
-		"score": "8/10",
+		"score": "7/10",
 		"description": "this made me furiously racist"
 	},
     {
 		"name": "Garfield Kart",
-		"score": "8/10",
+		"score": "7/10",
 		"description": "no i dont have a nintendo switch how can you tell"
 	},
     {
 		"name": "Yakuza 0",
-		"score": "9/10",
+		"score": "8/10",
 		"description": "this game is 16 different games in disguise"
 	},
     {
 		"name": "Undertale",
-		"score": "9/10",
+		"score": "8/10",
 		"description": "sans"
 	},
     {
 		"name": "Stick Fight: The Game",
-		"score": "8/10",
+		"score": "7/10",
 		"description": "do not play this game with people you intend to stay friends with"
 	},
     {
 		"name": "SCP: Secret Labratory",
-		"score": "8/10",
+		"score": "7/10",
 		"description": "70 hours of my life wasted arguing with strangers online"
 	},
     {
 		"name": "Rounds",
-		"score": "8/10",
+		"score": "7/10",
 		"description": "fuck this game"
 	},
     {
@@ -306,7 +321,7 @@
 	},
     {
 		"name": "Placid Plastic Duck Simulator",
-		"score": "8/10",
+		"score": "7/10",
 		"description": "it does what it says on the tin"
 	},
     {
@@ -316,7 +331,7 @@
 	},
     {
 		"name": "Operation Osama Bin Laden",
-		"score": "9/10",
+		"score": "8/10",
 		"description": "i unironically spent 11 hours playing this"
 	},
     {
@@ -396,7 +411,7 @@
 	},
     {
 		"name": "Dictators: No Peace Countryballs",
-		"score": "7/10",
+		"score": "6/10",
 		"description": "i got it for free"
 	},
     {
@@ -416,7 +431,7 @@
 	},
     {
 		"name": "Black Desert Online",
-		"score": "6/10",
+		"score": "5/10",
 		"description": "the entire game is a popup"
 	},
     {
