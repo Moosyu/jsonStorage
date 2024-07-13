@@ -1,9 +1,15 @@
 [
     {
         "type": "Movie",
+        "name": "Top Gun: Maverick",
+        "score": "7",
+        "description": "really corny but also it was a fun time so who cares"
+    },
+    {
+        "type": "Movie",
         "name": "American Assassin",
-        "score": "3",
-        "description": "almost comically bad and probably only fun to watch if you have some people with you so you can complain to them about it. my favourite scene was where mitch rapp(i know his full name because for some reason his girlfriends says it instead of just mitch idk) teleports up 6 stories of an apartment building to break in through a window and it goes completely unexplained or maybe it was but i was laughing too hard to tell. according to my dad it doesnt even do a good job of being like the book."
+        "score": "7",
+        "description": "i originally had this as a 3. that was before i realised that this movie was actually so shit it was fun to watch. i recommend."
     },
     {
         "type": "Movie",
