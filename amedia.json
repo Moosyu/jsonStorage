@@ -1,6 +1,62 @@
 [
 	{
         "type": "Manga",
+        "name": "Kingdom",
+        "score": "9/10",
+		"image": "",
+        "description": "big fights between big chinese men, peak fiction. the story is entertaining and the stakes are always high because even though the mc cant die it feels like anyone can die at any moment. only on chapter ~300 rn so this might be updated but i cant imagine it can go too wrong."
+    },
+	{
+        "type": "Manhwa",
+        "name": "Leveling Beyond the Max",
+        "score": "3/10",
+		"image": "",
+        "description": "common solo leveling clone with a slight twist, but the slight twist for this one is that its shit"
+    },
+	{
+        "type": "Manga",
+        "name": "Drawing: Saikyou Mangaka wa Oekaki Skill de Isekai Musou suru!",
+        "score": "3/10",
+		"image": "",
+        "description": "dropped it pretty early but probably gonna have a harem, at least they arent underage"
+    },
+	{
+        "type": "Manga",
+        "name": "Saitei Chara ni Tensei shita Ore wa Ikinokoritai",
+        "score": "3/10",
+		"image": "",
+        "description": "generic isekai slop"
+    },
+	{
+        "type": "Manga",
+        "name": "Gal Gohan",
+        "score": "3/10",
+		"image": "",
+        "description": "while i cant say its good, i can say its bad"
+    },
+	{
+        "type": "Manga",
+        "name": "Dissolving Series",
+        "score": "3/10",
+		"image": "",
+        "description": "junji itou doesnt make scary or even disturbing stories and im tired of pretending he does, i keep reading his shit because people keep telling me to and its always boring and the only thing it makes me thing is wow that sure was weird and then i forget about it forever"
+    },
+	{
+        "type": "Manga",
+        "name": "Gigant",
+        "score": "2/10",
+		"image": "",
+        "description": "way worse then gantz and i thought gantz was ass"
+    },
+	{
+        "type": "Manga",
+        "name": "Gantz",
+        "score": "4/10",
+		"image": "",
+        "description": "boring story with a shitty old hentai art style"
+    },
+	{
+        "type": "Manga",
         "name": "Saikyou Juzoku Tensei: Majutsu Otaku no Risoukyou",
         "score": "2",
 		"image": "",
@@ -11,7 +67,7 @@
         "name": "The Story of the Kiwi Bird",
         "score": "6",
 		"image": "https://i.imgur.com/EyD1xeg.png",
-        "description": "based on new zealand mythology? wtf are you talkign about this isnt based on shit"
+        "description": "based on new zealand mythology? wtf are you talking about this isnt based on shit"
     },
 	{
         "type": "Manga",
@@ -32,7 +88,7 @@
         "name": "The Tenth Prism",
         "score": "4",
 		"image": "",
-        "description": "it being colored is pretty cool. too bad the art and story are bad"
+        "description": "it being coloured is pretty cool. too bad the art and story are bad"
     },
 	{
         "type": "Manhwa",
@@ -193,7 +249,7 @@
         "name": "Zanuff the Butcher",
         "score": "4",
 		"image": "https://i.imgur.com/D4iicNh.png",
-        "description": "made me feel like the author has a poor grasp on humans and on any of the topics he tried to convay. maybe its because he had such a limited time but it still feels like it doesnt utilise its time correctly."
+        "description": "made me feel like the author has a poor grasp on humans and on any of the topics he tried to convey. maybe its because he had such a limited time but it still feels like it doesnt utilise its time correctly."
     },
 	{
         "type": "Manga",
@@ -235,7 +291,7 @@
         "name": "Blades of the Guardians",
         "score": "8",
 		"image": "https://i.imgur.com/R4mGv9k.jpeg",
-        "description": "jsut really fun, found myself forced to read the next chapter because it was just so entertaining and everything felt pretty new to me (maybe i just havent read enough manhua). only issue is updates are really slow and translations are even slower so i had to do it myself and im stupid so im not very good at it."
+        "description": "just really fun, found myself forced to read the next chapter because it was just so entertaining and everything felt pretty new to me (maybe i just havent read enough manhua). only issue is updates are really slow and translations are even slower so i had to do it myself and im stupid so im not very good at it."
     },
 	{
         "type": "Manhua",
@@ -445,14 +501,14 @@
 		"name": "The Fragrant Flower Blooms With Dignity",
 		"score": "8",
 		"image": "",
-		"description": "at the start the setting has the vibe of an unintentional dystopian hellscape which im not 100% against with pacing that isnt borderline schizophrenic and has actual character development. a lot of apologizing though."
+		"description": "at the start the setting has the vibe of an unintentional dystopian hellscape which im not 100% against with pacing that isnt borderline schizophrenic and has actual character development. a lot of apologising though."
 	},
 	{
 		"type": "Manga",
 		"name": "My Dress-Up Darling",
 		"score": "5",
 		"image": "https://i.imgur.com/SDsBJ5p.jpeg",
-		"description": "this is 50% fanservice 50% something else and im not even sure what the something else is but its not good at either. if i wanted porn id watch porn. this is definitely not a 9 as it somehow got on comick but the recent arc has unironically been really great. unfortunatly thats because it is so different from the rest of the manga (the latest arc being the one where she cosplays as kmart griffith)."
+		"description": "this is 50% fanservice 50% something else and im not even sure what the something else is but its not good at either. if i wanted porn id watch porn. this is definitely not a 9 as it somehow got on comick but the recent arc has unironically been really great. unfortunately thats because it is so different from the rest of the manga (the latest arc being the one where she cosplays as kmart griffith)."
 	},
 	{
 		"type": "Manga",
@@ -494,21 +550,21 @@
 		"name": "Blue Period",
 		"score": "8",
 		"image": "https://i.imgur.com/zKpiO3Q.jpg",
-		"description": "great story with interesting character development espcially because his development is a lot more abstract then other stories, also how is the most hot girl actually and a man. my only issues are that at some stages it gets kind of boring and also later on it creates characters that seem unrealistic and kind of one dimentional (granted ive never been to art school) but for a world set in our world the characters just seem a little too eccentric."
+		"description": "great story with interesting character development especially because his development is a lot more abstract then other stories, also how is the most hot girl actually and a man. my only issues are that at some stages it gets kind of boring and also later on it creates characters that seem unrealistic and kind of one dimensional (granted ive never been to art school) but for a world set in our world the characters just seem a little too eccentric."
 	},
 	{
 		"type": "Manga",
 		"name": "JoJo's Bizarre Adventure Part 8: Jojolion",
 		"score": "8",
 		"image": "https://i.imgur.com/hPxlk7y.jpg",
-		"description": "not on the same level as the previous part but jojolion still has intriguing story and an interesting mystery even if the villain isnt very good espcially when you compare him to valentine. on a side note no matter how much ariki tries to pretend the jojos are straight they are clearly all raging homosexuals jousuke got a boner when he looked behind yasuho and saw joushu im telling you."
+		"description": "not on the same level as the previous part but jojolion still has intriguing story and an interesting mystery even if the villain isnt very good especially when you compare him to valentine. on a side note no matter how much ariki tries to pretend the jojos are straight they are clearly all raging homosexuals jousuke got a boner when he looked behind yasuho and saw joushu im telling you."
 	},
 	{
 		"type": "Manga",
 		"name": "Grappler Baki",
 		"score": "7",
 		"image": "",
-		"description": "baki is not a good story in almost any way, not art, characters or story but it makes up for that with pure entertainment value. baki is some of the most insane, bizzare and entertaining shit that anyones ever made. my eyes stayed stuck to this shit stained page the entire time."
+		"description": "baki is not a good story in almost any way, not art, characters or story but it makes up for that with pure entertainment value. baki is some of the most insane, bizarre and entertaining shit that anyones ever made. my eyes stayed stuck to this shit stained page the entire time."
 	},
 	{
 		"type": "Manga",
@@ -536,7 +592,7 @@
 		"name": "Something About Us",
 		"score": "5",
 		"image": "",
-		"description": "i usually read shit romance to relax me and to burn time. i love to complain about romance manhwa and manga being shit but if they get too good i justy dont read them. this did most things well but tragically i hated almost everyone and it was a bit miserable at times so it definitely didnt relax me. its a pretty good read if you like romance as a genre but if youre like me its kind of a slog to get through."
+		"description": "i usually read shit romance to relax me and to burn time. i love to complain about romance manhwa and manga being shit but if they get too good i just dont read them. this did most things well but tragically i hated almost everyone and it was a bit miserable at times so it definitely didnt relax me. its a pretty good read if you like romance as a genre but if youre like me its kind of a slog to get through."
 	},
 	{
 		"type": "Manga",
@@ -562,9 +618,9 @@
 	{
 		"type": "Manga",
 		"name": "One Piece",
-		"score": "8",
+		"score": "7",
 		"image": "https://i.imgur.com/lmVZ92z.png",
-		"description": "even though i dont think one piece is a masterpiece it has some of the best worldbuilding ive ever seen, especially with small details that make the world feel real and is the only manga that made me feel like they are going on a grand adventure (maybe because it has so many chapters idk). past characters come back, locations have histories prior to the arrival of the straw hats and the straw hats dont need to be somewhere for something to happen. at the start i didnt like how everything was exaggerated, from personalities to body proportions to facial expressions but over time maybe i got stockholm syndrome idk but i started enjoying the goofy atmosphere one piece has."
+		"description": "honestly the more one piece i read the more just fatigued i feel. i just cant love a series that has no stakes, nobody ever dies and i know death isnt the only way to build stakes but one piece is the kind of story where death should happen, its a bunch of pirates shooting at each other in a sea where if the mc falls in he dies and it feels like oda pulling it out his ass when somehow everyone survives. how am i meant to care about massive fights when i know the characters could just wait a week after then do it again. i still think one piece is a good manga but i dont think its as great as i first thought when i had only read 100 chapters."
 	},
 	{
 		"type": "Manga",
@@ -606,7 +662,7 @@
 		"name": "The Strongest Earthbound Spirit and the Guy With No Spiritual Sense",
 		"score": "5",
 		"image": "https://i.imgur.com/Ek413eF.png",
-		"description": "i dont know why they felt the need to make the art actaully good but it was the only reason i kept reading"
+		"description": "i dont know why they felt the need to make the art actually good but it was the only reason i kept reading"
 	},
 	{
 		"type": "Manga",
@@ -662,7 +718,7 @@
 		"name": "Dorohedoro",
 		"score": "8",
 		"image": "",
-		"description": "good but the art and just general it isnt as good as the manga but ebisu in the shark costume was definitly better then the manga. still it is worth a watch if you are unwilling to read the manga."
+		"description": "good but the art and just general it isnt as good as the manga but ebisu in the shark costume was definitely better than the manga. still it is worth a watch if you are unwilling to read the manga."
 	},
 	{
 		"type": "Manga",
@@ -844,7 +900,7 @@
 		"name": "God Of Highschool",
 		"score": "6",
 		"image": "https://i.imgur.com/TRWCjEV.png",
-		"description": "the most insanes fights, the rest isnt good but luckily the fights are 90%"
+		"description": "the most insane fights, the rest isnt good but luckily the fights are 90%"
 	},
 	{
 		"type": "Manga",
@@ -1068,7 +1124,7 @@
 		"name": "Dorohedoro",
 		"score": "10",
 		"image": "https://i.imgur.com/X1WkMwi.png",
-		"description": "everything feels so new, the worldbuilding is great, the art is perfect for the story and the entire cast is great. ever character is an awful person but killing is just so widely excepted in the world you end up forgetting about them being the worst. its world building is great to a point where it actually feels like you are looking into a living world not just a chunk of land that just appeared so you can spectate."
+		"description": "everything feels so new, the worldbuilding is great, the art is perfect for the story and the entire cast is great. ever character is an awful person but killing is just so widely accepted in the world you end up forgetting about them being the worst. its world building is great to a point where it actually feels like you are looking into a living world not just a chunk of land that just appeared so you can spectate."
 	},
 	{
 		"type": "Manga",
@@ -1201,7 +1257,7 @@
 		"name": "The Descent of the Demonic Master",
 		"score": "6",
 		"image": "https://i.imgur.com/5R2oAo6.png",
-		"description": "me when im in a being homophobic compition and my opponent is the descent of the demonic master comment section"
+		"description": "me when im in a being homophobic competition and my opponent is the descent of the demonic master comment section"
 	},
 	{
 		"type": "Manga",
@@ -1355,7 +1411,7 @@
 		"name": "Dead Mount Death Play",
 		"score": "3",
 		"image": "",
-		"description": "so much fan service and they brought tne annoying bitch back to life just so they could show more of it"
+		"description": "so much fan service and they brought the annoying bitch back to life just so they could show more of it"
 	},
 	{
 		"type": "Manga",
@@ -1467,7 +1523,7 @@
 		"name": "Haikyu!!",
 		"score": "7",
 		"image": "",
-		"description": "i wonder if the artist knew it was about vollyball"
+		"description": "i wonder if the artist knew it was about volleyball"
 	},
     {
 		"type": "Manga",
@@ -1495,7 +1551,7 @@
 		"name": "Hinamatsuri",
 		"score": "9",
 		"image": "https://i.imgur.com/I3sBTNP.jpg",
-		"description": "they said rock and roll was evil and nobody believed them. look whos lauging now."
+		"description": "they said rock and roll was evil and nobody believed them. look whos laughing now."
 	},
     {
 		"type": "Manhwa",
@@ -2230,7 +2286,7 @@
 		"name": "JoJo's Bizarre Adventure Part 5: Golden Wind",
 		"score": "8",
 		"image": "",
-		"description": "my favourite group dynamic so far and the setting felt new and unique to the part because italy is just cool. the plot was technically better then part 4 with non of those random lose threads but diavolo was such a boring character and got carried so hard by doppio."
+		"description": "my favourite group dynamic so far and the setting felt new and unique to the part because italy is just cool. the plot was technically better then part 4 with non of those random loose threads but diavolo was such a boring character and got carried so hard by doppio."
 	},
     {
 		"type": "Anime",
@@ -2279,7 +2335,7 @@
 		"name": "Made in Abyss",
 		"score": "9",
 		"image": "",
-		"description": "first anime i watched, shit goes harder then diamonds. set my expectations way too high."
+		"description": "first anime i watched, shit goes harder than diamonds. set my expectations way too high."
 	},
     {
 		"type": "Anime",
@@ -2391,14 +2447,14 @@
 		"name": "True Education",
 		"score": "6",
 		"image": "https://i.imgur.com/OTw123a.png",
-		"description": "would be a lot better if i didnt have to read it on the worst site in existance"
+		"description": "would be a lot better if i didnt have to read it on the worst site in existence"
 	},
     {
 		"type": "Manhwa",
 		"name": "Talent Swallowing Magician",
 		"score": "7",
 		"image": "https://i.imgur.com/obMygwB.png",
-		"description": "the translators change the translations so much and dont go back to fix previous chapers"
+		"description": "the translators change the translations so much and dont go back to fix previous chapters"
 	},
     {
 		"type": "Manhwa",
@@ -2531,7 +2587,7 @@
 		"name": "About Death",
 		"score": "8",
 		"image": "https://i.imgur.com/uFaeeX9.png",
-		"description": "how did they make me releate to every character every chapter and why am i still remembering this now"
+		"description": "how did they make me relate to every character every chapter and why am i still remembering this now"
 	},
     {
 		"type": "Manhwa",
@@ -2650,11 +2706,11 @@
 		"name": "Heavenly Demon Reborn!",
 		"score": "6",
 		"image": "",
-		"description": "new 8 just dropped (after reading a lot of other stuff this retroactively became a 7 but im just gonna keep the original caption) (after rereading im retroactivly dropping this down to a 6)"
+		"description": "new 8 just dropped (after reading a lot of other stuff this retroactively became a 7 but im just gonna keep the original caption) (after rereading im retroactively dropping this down to a 6)"
 	},
     {
 		"type": "Anime",
-		"name": "My Hero Acadamia",
+		"name": "My Hero Academia",
 		"score": "5",
 		"image": "",
 		"description": "one of the things of all time"
@@ -2690,9 +2746,9 @@
     {
 		"type": "Manhwa",
 		"name": "Solo Leveling",
-		"score": "6",
+		"score": "7",
 		"image": "",
-		"description": "can you smell what the rock is cooking?"
+		"description": "can you smell what the rock is cooking? it doesnt do anything special or outside what i thought it would do, but it does what it does with a level of proficiency very uncommon these days."
 	},
     {
 		"type": "Manhwa",
@@ -2734,7 +2790,7 @@
 		"name": "Devilman: Crybaby",
 		"score": "6",
 		"image": "",
-		"description": "chief preist sounds like cheif keef"
+		"description": "chief priest sounds like cheif keef"
 	},
     {
 		"type": "Manga",
