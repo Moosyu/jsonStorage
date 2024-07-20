@@ -1,6 +1,41 @@
 [
 	{
         "type": "Manga",
+        "name": "My Stepsister Who Is Perfect in Public, Shows Her True Colors at Home",
+        "score": "2",
+		"image": "",
+        "description": "ewww icky"
+    },
+	{
+        "type": "Manga",
+        "name": "Harem Ou no Isekai Press Manyuuki: Saikyou Musou no Ojisan wa Arayuru Shuzoku wo Yome ni Suru",
+        "score": "2",
+		"image": "",
+        "description": "i guess im a little fatphobic"
+    },
+	{
+        "type": "Manga",
+        "name": "The Story Between a Dumb Prefect and a High School Girl with an Inappropriate Skirt Length",
+        "score": "4",
+		"image": "",
+        "description": "my favourite comedies are the one where the comedy is just hitting people. real kneeslappers guys good job."
+    },
+	{
+        "type": "Webtoon",
+        "name": "Nevermore",
+        "score": "6",
+		"image": "https://i.imgur.com/8HR0U7V.png",
+        "description": "i dont know how to say this but its too lesbian. the main character is also annoying idk."
+    },
+	{
+        "type": "Manga",
+        "name": "Do Chokkyuu Kareshi x Kanojo",
+        "score": "3",
+		"image": "",
+        "description": "very generic ecchi romance thing even though it has more ecchi then romance. there was more then one boob grab in the first 10 chapters thats all im saying."
+    },
+	{
+        "type": "Manga",
         "name": "Kingdom",
         "score": "9",
 		"image": "https://i.imgur.com/ZUk7uNZ.png",
@@ -2685,7 +2720,7 @@
 		"name": "Return of the Mount Hua Sect",
 		"score": "7",
 		"image": "https://i.imgur.com/CRaGWK5.png",
-		"description": "zhou lao shi would be impressed"
+		"description": "zhou laoshi would be impressed"
 	},
     {
 		"type": "Manhwa",
