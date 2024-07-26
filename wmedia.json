@@ -1,6 +1,12 @@
 [
     {
         "type": "Movie",
+        "name": "The Accountant",
+        "score": "6",
+        "description": "entertaining, not as entertaining as the modern day masterpiece american assassin mind you but i could sit through it without getting bored and complain, my favourite thing to do"
+    },
+    {
+        "type": "Movie",
         "name": "Top Gun: Maverick",
         "score": "7",
         "description": "really corny but also it was a fun time so who cares"
@@ -8,8 +14,8 @@
     {
         "type": "Movie",
         "name": "American Assassin",
-        "score": "7",
-        "description": "i originally had this as a 3. that was before i realised that this movie was actually so shit it was fun to watch. i recommend."
+        "score": "8",
+        "description": "i originally had this as a 3. that was before i realised that this movie was actually so shit it was fun to watch. i recommend. id like to say this is room level slop but i think its actually achieved peak slop, the room could never."
     },
     {
         "type": "Movie",
@@ -111,7 +117,7 @@
         "type": "Movie",
         "name": "Terminator",
         "score": "7",
-        "description": "entertaining, not the deepest experience but its silly and fun"
+        "description": "entertaining, not the a life changing experience or anything but its silly and fun"
     },
     {
         "type": "Movie",
