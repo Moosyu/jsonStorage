@@ -1,5 +1,33 @@
 [
 	{
+        "type": "Manhwa",
+        "name": "The Outcast Is Too Good at Martial Arts",
+        "score": "3",
+		"image": "",
+        "description": "the art in this one is real weird, my best guess is that its a 3d model using shaders to make it look like its 2d art? anyways the story is boring and the weird 2d 3d hybrid art looks like shit."
+    },
+	{
+        "type": "Manhwa",
+        "name": "Juvenile Prison",
+        "score": "5",
+		"image": "",
+        "description": "the art is very good, the story is boring generic gang fighting manhwa. mc is mad so mc beats up big man, repeat until final boss."
+    },
+	{
+        "type": "Manhwa",
+        "name": "My S-Class Hunters",
+        "score": "3",
+		"image": "",
+        "description": "the art is quite nice, the story and characters are quite shit"
+    },
+	{
+        "type": "Manhwa",
+        "name": "Reality Quest",
+        "score": "5",
+		"image": "",
+        "description": "reality quest: at its best its a slightly above average gang manhwa. it has a lot of issues but i'd rather talk about the least important one, why does the artist draw the girls in a pornhwa artstyle?? not to say i'm gay its just that i'm not attracted to the weird ass pornhwa proportions, like if you look for more then a second everything goes to shit, their cardboard personalities dont help either though that isnt specific to the girls, the guys are paper thin too. though this didn't seem like a problem for the average reader as from the comments most people who read this are 13."
+    },
+	{
         "type": "Webtoon",
         "name": "Down To Earth",
         "score": "4",
@@ -583,7 +611,7 @@
 	{
 		"type": "Manga",
 		"name": "Homunculus",
-		"score": "8",
+		"score": "7",
 		"image": "https://i.imgur.com/qmwiPuB.png",
 		"description": "wow this is pretty coo- AUUGGUIFAA AAAAHHHH IAISODADOJOJOGF BNBMVMFIADKADKDFLLGF AAAAAAAAAAAAAAAAAAAAAA AHFHHHHHHHHajffhjf :( cool story but sometimes gets so disgusting i have to take a multiple day break from reading it"
 	},
@@ -2592,9 +2620,9 @@
     {
 		"type": "Manhwa",
 		"name": "Infinite Leveling: Murim",
-		"score": "4",
+		"score": "3",
 		"image": "",
-		"description": "wow the art is terrible"
+		"description": "wow the art is terrible. i keep trying to reread this assuming the story will carry it. on further inspection the story is about as shit as the art."
 	},
     {
 		"type": "Manhwa",
