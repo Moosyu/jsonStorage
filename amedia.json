@@ -1,5 +1,33 @@
 [
 	{
+        "type": "Manga",
+        "name": "Akuyaku Reijou Tensei Ojisan",
+        "score": "3",
+		"image": "",
+        "description": "i genuinely could not not tell you who this is for. do middle aged japanese men read villainess manga?"
+    },
+	{
+        "type": "Manga",
+        "name": "Grashros",
+        "score": "4",
+		"image": "https://i.imgur.com/7gxJ6nc.png",
+        "description": "art good, story alright until halfway, then story bad"
+    },
+	{
+        "type": "Manga",
+        "name": "Ambivalent: Dotei wo Sutetara Shinu Sekai",
+        "score": "1",
+		"image": "",
+        "description": "everyday a new borderline porn manga for 11 year olds is released. so sad *exhale*"
+    },
+	{
+        "type": "Manga",
+        "name": "Kuchibeta Shokudou",
+        "score": "5",
+		"image": "",
+        "description": "shoutout to moosyu for translating chapter 52. what a nice guy!!"
+    },
+	{
         "type": "Manhua",
         "name": "I'm the Fated Villain",
         "score": "1",
@@ -1836,7 +1864,7 @@
     {
 		"type": "Manhwa",
 		"name": "Noblesse",
-		"score": "7",
+		"score": "6",
 		"image": "https://i.imgur.com/7kuektV.png",
 		"description": "if you are gonna say that a characters' hot at least make them hot"
 	},
