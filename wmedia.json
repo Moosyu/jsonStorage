@@ -56,8 +56,8 @@
     {
         "type": "Movie",
         "name": "The Martian",
-        "score": "9",
-        "description": "yeah i cried when space oddity started playing, fuck you, shit was beautiful"
+        "score": "8",
+        "description": "space oddity was beautiful i love david bowie"
     },
     {
         "type": "Movie",
@@ -92,20 +92,8 @@
     {
         "type": "Movie",
         "name": "Terminator 2",
-        "score": "7",
+        "score": "6",
         "description": "classic but not timeless, there is some really trash looking early 90s cgi and it does feel a little drawn out but kept my attention enough to finish it"
-    },
-    {
-        "type": "Mixtape",
-        "name": "Exmilitary",
-        "score": "9",
-        "description": "blew me away the first time i heard it because i had never heard this insane shit before and to be honest i didnt like it, but then a week later i had the nagging urge to listen to it again and by the time the charles manson monologue was over death grips was my favourite band. i dont know what happend, maybe i just went insane but my life has been better since going insane so its fine. im pretty sure listening to this i would be unable to die, you could even call it having a grip on death (dum dum ching). favourite song is beware "
-    },
-    {
-        "type": "Single",
-        "name": "Life on Mars",
-        "score": "10",
-        "description": "my favourite song of all time, the writing is clever and davids singing is great as always. the greatest failure of my life is and always will be being born too late to see this performed live."
     },
     {
         "type": "Movie",
@@ -123,7 +111,7 @@
         "type": "Movie",
         "name": "The Matrix",
         "score": "8",
-        "description": "technical marvel that influenced film forever. still stands on its own as an entertaining 2 hours."
+        "description": "very cool film that still holds up unlike some of the ass cgi ive seen from its era"
     },
     {
         "type": "Movie",
@@ -134,7 +122,7 @@
     {
         "type": "Movie",
         "name": "Inside",
-        "score": "9",
+        "score": "8",
         "description": "comedy special that feels like the peak of bo's career. it hit harder in quarintine but is still entertaining and a good insight into the general feelings during the quarantine."
     },
     {
@@ -146,19 +134,19 @@
     {
         "type": "TV Show",
         "name": "Planet Earth",
-        "score": "9",
+        "score": "8",
         "description": "if aliens invade we should show them this because this shit is beautiful and makes earth look like its not a shithole"
     },
     {
         "type": "TV Show",
         "name": "BoJack Horseman",
-        "score": "10",
+        "score": "9",
         "description": "a masterpiece which is the peak of mature animation in my mind. bojack horseman is what other mature animated comdies should strive to be, its funny, clever and outlandish in ways that dont seem too crazy because its animated. bojack horseman handles dark issues like substance abuse and bojacks trauma of his terrible childhood in a very real way making bojack seem like more of a person then most characters in other shows and hes not ever a person. also it has aaron paul as todd whats not to love."
     },
     {
         "type": "TV Show",
         "name": "Adventure Time: Fionna & Cake",
-        "score": "9",
+        "score": "8",
         "description": "i was kinda sceptical because to be honest i dont think anybody was asking for this and i generally didnt like the fionna and cake episodes because they felt like filler but this most certainly was not filler. the art was great and i get to have yet another look at the world of adventure time, there was yet again not a single miss in the entire season and while i dont think it ever reached the peak the distant lands did in together again thats kind of a hard target. also i got to see prismo again (my beloved)"
     },
     {
@@ -176,7 +164,7 @@
     {
         "type": "TV Show",
         "name": "The Mentalist",
-        "score": "9",
+        "score": "8",
         "description": "one of those detective shows where the main guy is the smart detective solves crimes easily that other detectives find hard. usually not a good show idea because 1000000 of the same show already exist but this time its sometimes funny and his solves seem clever instead of just bullshit. my only issue is that red johns capture sequence sucks so bad, like you cant build someone up to be extremely smart by showing him being extremely smart and then just make him a dumbass come on."
     },
     {
@@ -224,8 +212,8 @@
     {
         "type": "TV Show",
         "name": "The Boys",
-        "score": "9",
-        "description": "such a breath of fresh air compared to the normal superhero shit"
+        "score": "8",
+        "description": "such a breath of fresh air compared to the normal superhero shit. kinda gone down hill recently but season 1 was peak."
     },
     {
         "type": "Short Film",
@@ -381,7 +369,7 @@
     {
         "type": "TV Show",
         "name": "Arcane",
-        "score": "9",
+        "score": "8",
         "description": "holy shit ive never played league of legends but this still so good standalone"
     },
     {
@@ -496,7 +484,7 @@
         "type": "Movie",
         "name": "The Incredibles",
         "score": "9",
-        "description": "every part of this film was so great"
+        "description": "after all... im your biggest fan"
     },
     {
         "type": "Movie",
@@ -543,7 +531,7 @@
     {
         "type": "Movie",
         "name": "Inception",
-        "score": "7",
+        "score": "8",
         "description": "i honestly had no idea what was going on for 50% of this"
     },
     {
@@ -555,7 +543,7 @@
     {
         "type": "Movie",
         "name": "El Camino",
-        "score": "7",
+        "score": "6",
         "description": "i need more jesse in my life"
     },
     {
@@ -633,7 +621,7 @@
     {
         "type": "TV Show",
         "name": "Brooklyn 99",
-        "score": "9",
+        "score": "8",
         "description": "me when things are well written and funny"
     },
     {
@@ -651,7 +639,7 @@
     {
         "type": "Movie",
         "name": "Halloween (2018)",
-        "score": "9",
+        "score": "8",
         "description": "this film is underrated as hell and the long shot at the start was peak"
     },
     {
@@ -663,7 +651,7 @@
     {
         "type": "Movie",
         "name": "Us",
-        "score": "8",
+        "score": "7",
         "description": "i feel like considering they were trapped underground their whole lives they didnt turn out that bad"
     },
     {
@@ -682,7 +670,7 @@
         "type": "Movie",
         "name": "Midsommar",
         "score": "8",
-        "description": "most normal activity of the sweedish"
+        "description": "about what i expect of the sweedish"
     },
     {
         "type": "Movie",
@@ -837,7 +825,7 @@
     {
         "type": "Comic",
         "name": "Injustice",
-        "score": "8",
+        "score": "7",
         "description": "noo robin why did you do it"
     },
     {
@@ -855,7 +843,7 @@
     {
         "type": "Book",
         "name": "The Hunger Games",
-        "score": "8",
+        "score": "7",
         "description": "holy heck its just minecraft"
     },
     {
