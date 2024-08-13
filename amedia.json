@@ -1,5 +1,96 @@
 [
       {
+            "type": "Manga",
+            "name": "Ambivalent: Dotei wo Sutetara Shinu Sekai",
+            "score": 3,
+            "image": "",
+            "description": "the comick front page is not halal"
+      },
+      {
+            "type": "Manga",
+            "name": "Ambivalent: Dotei wo Sutetara Shinu Sekai",
+            "score": 1.5,
+            "image": "",
+            "description": "the comick front page is not halal"
+      },
+      {
+            "type": "Manga",
+            "name": "Silver Spoon",
+            "score": 4,
+            "image": "",
+            "description": "i know a lot of people like this, i just dont. couldnt get invested idk. maybe ill come back at some point tho."
+      },
+      {
+            "type": "Manga",
+            "name": "Kami no Kodomo.",
+            "score": 2.6,
+            "image": "https://i.imgur.com/DzLZagq.png",
+            "description": "went for something mature and deep but just ended up a series of disturbing events and a main character who is the worst and just never gets redeemed, hes just the worst the whole time for some reason idk either."
+      },
+      {
+            "type": "Manga",
+            "name": "I Like You Who Can Have Sex Anyone.",
+            "score": 2,
+            "image": "",
+            "description": "its porn. i know i should have thought that from the title but it wasnt listed as porn so i thought maybe it was a real story about people with like a fucked up sex life or something?? (idk what i was thinking)"
+      },
+      {
+            "type": "Manga",
+            "name": "One Piece: Nami vs. Kalifa",
+            "score": 2.4,
+            "image": "https://i.imgur.com/lM2D9EQ.jpeg",
+            "description": "boichi is actually so shit at drawing girls its honestly insane. this feels closer to softcore porn then a oneshot. the fight is pretty good too but i just cannot read this with a straight face i just feel silly."
+      },
+      {
+            "type": "Manhwa",
+            "name": "The Gamer",
+            "score": 1.9,
+            "image": "",
+            "description": "just going through my backlog of bad manga i dropped at this point. the gamer is shit straight from the start till (i assume) the end. the art is genuinely awful, often worse then tower of god but where tower of god succeeded in story, the gamer didnt and was just felt silly to read."
+      },
+      {
+            "type": "Manga",
+            "name": "Seven Deadly Sins",
+            "score": 2.1,
+            "image": "https://i.imgur.com/vGWNjuE.png",
+            "description": "i didnt make it through this one. if anyone wants to write a shounen id first read this adn then if you feel yourself writing something similar make drastic changes."
+      },
+      {
+            "type": "Manga",
+            "name": "My Hero Academia",
+            "score": 5.7,
+            "image": "https://i.imgur.com/SUJTYIY.png",
+            "description": "it finished recently (as of writing this) so i took that as a chance to finish it. the ending was just as unsatisfying as everyone said it was and a really bad way to end a pretty alright shounen manga. the art was easily its best aspect tho shit was fire."
+      },
+      {
+            "type": "Manga",
+            "name": "Miss Kobayashi's Dragon Maid",
+            "score": 0.4,
+            "image": "",
+            "description": "when you make your characters children and still do fanservice :3"
+      },
+      {
+            "type": "Manga",
+            "name": "Mushoku Tensei: Jobless Reincarnation",
+            "score": 0.2,
+            "image": "",
+            "description": "ive been this series #1 opp for a little while now but didnt put it here bc i thought i already did lol. anyways this manga/anime is kind of like im the fated villain in the way that the mc is an irredeemable pos thats impossible to root for. i gave this +0.1 though because he hasnt raped anyone (i think). the manga is also worse pedophile wise (or better if you are a pedo) than the anime. i know this is really popular and my only thought for a reason why is that anime fans are all pedophiles anyways so they dont care."
+      },
+      {
+            "type": "Manga",
+            "name": "The Hitman's Fave",
+            "score": 5.8,
+            "image": "https://i.imgur.com/Mgk7MBy.png",
+            "description": "mildly entertaining but repetative manga. i can see this going a max of 20 chapters unless it finds some different jokes."
+      },
+      {
+            "type": "Manga",
+            "name": "Bunny Drop",
+            "score": 0.5,
+            "image": "",
+            "description": "get rid of the incest near the end and we're getting somewhere."
+      },
+      {
             "type": "Manhwa",
             "name": "Solo Leveling: Ragnarok",
             "score": 7,
@@ -212,7 +303,7 @@
       {
             "type": "Manhwa",
             "name": "Dreaming Freedom",
-            "score": 7.5,
+            "score": 6.6,
             "image": "https://i.imgur.com/z3EjFk5.png",
             "description": "shes seen this man"
       },
@@ -1353,7 +1444,7 @@
       {
             "type": "Manhwa",
             "name": "Crimson Karma",
-            "score": 6.7,
+            "score": 6.4,
             "image": "",
             "description": "didn't expect to a story without the romance tag to be 80% romance but jokes on me i guess"
       },
@@ -2158,7 +2249,7 @@
       {
             "type": "Manga",
             "name": "Juujika no Rokunin",
-            "score": 3.1,
+            "score": 2.1,
             "image": "https://i.imgur.com/EjrhjcY.png",
             "description": "his family is murdered and his house is burnt down in the first chapter"
       },
@@ -2839,7 +2930,7 @@
             "name": "Tower of God",
             "score": 6.6,
             "image": "https://i.imgur.com/f2rl60y.png",
-            "description": "i like the crocodile"
+            "description": "i like the crocodile. aside from that the art is some of the worst in the manhwa industry up until ~volume 3 (435 chapters in) and even then it still looks trash, i imagine it will be about average by chapter 700 (not a joke a real prediction). the story is above average though but never really kept me too hooked and im not too big a fan of the chapter long explainations of each floor."
       },
       {
             "type": "Manhwa",
@@ -2851,7 +2942,7 @@
       {
             "type": "Manhwa",
             "name": "Kill The Hero",
-            "score": 0.1,
+            "score": 0.5,
             "image": "",
             "description": "id pay anyone $500 if they can find value in this"
       },
