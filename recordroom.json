@@ -1,50 +1,250 @@
 [
     {
+        "name": "LP! (Offline Version)",
+        "artist":"JPEGMAFIA",
+        "score": "9.8",
+        "image": "https://i.imgur.com/P1zx1gk.jpeg",
+        "imageB": "https://i.imgur.com/0AXH6Oj.png",
+        "description": "had to go on an ebay scavanger hunt for that low quality picture of the back cover"
+    },
+    {
+        "name": "we had good times together, don't forget that",
+        "artist":"Sewerslvt",
+        "score": "6.6",
+        "image": "",
+        "imageB": "",
+        "description": "sewersvlt's magnum opus and its still mid !! i suggest you kill yourself! !"
+    },
+    {
+        "name": "Skitzofrenia Simulation",
+        "artist":"Sewerslvt",
+        "score": "4.5",
+        "image": "",
+        "imageB": "",
+        "description": "good title, dumpster fire album. sewersvlt is such an edgelord god damn"
+    },
+    {
+        "name": "The World Is Fvcked",
+        "artist":"Sewerslvt",
+        "score": "4.2",
+        "image": "",
+        "imageB": "",
+        "description": "sewerslvt is back to making stinky poo poo music. so god damn boring."
+    },
+    {
+        "name": "Drowning In The Sewer",
+        "artist":"Sewerslvt",
+        "score": "6.3",
+        "image": "",
+        "imageB": "",
+        "description": "sewerslvt has evolved from being shit to fine !! great stuff !!"
+    },
+    {
+        "name": "Drowning In The Sewer",
+        "artist":"Sewerslvt",
+        "score": "2.8",
+        "image": "",
+        "imageB": "",
+        "description": "devolution, no clue why people like this so much but it sounds like shit im not even gonna lie and nothingness proves sewerslvt is still completely insane (in a bad way)."
+    },
+    {
+        "name": "Starving Slvts Always Get Their Fix",
+        "artist":"Sewerslvt",
+        "score": "3.3",
+        "image": "",
+        "imageB": "",
+        "description": "makes my ears bleed more then the last album but also feels like theres actually something going on unlike the last album"
+    },
+    {
+        "name": "Interdimensional Snuff Films",
+        "artist":"Sewerslvt",
+        "score": "3",
+        "image": "https://i.imgur.com/rX5mCLe.png",
+        "imageB": "https://i.imgur.com/bCfTOCp.png",
+        "description": "sewerslvt slowly improves, still hasnt made an album that didnt make my ears want to throw themselves into a bathtub with, which i guess is what the cover was symbolising."
+    },
+    {
+        "name": "It Just Gets Worse",
+        "artist":"Sewerslvt",
+        "score": "2.5",
+        "image": "",
+        "imageB": "",
+        "description": "i wouldnt go as far as to say worse because you cant go below 0 but this is still ass !!"
+    },
+    {
+        "name": "Don't Be Afraid of Dying",
+        "artist":"Sewerslvt",
+        "score": "0",
+        "image": "",
+        "imageB": "",
+        "description": "an album so catastrophically bad in execution it forced me to retroactively bump up every other album ive rated 0 by 5 because they truly cannot compare (im not uploading these in order trust the process i just havent put in any of the other things i thought were 0s so far)"
+    },
+    {
+        "name": "SCRAPYARD",
+        "artist":"Quadeca",
+        "score": "6.9",
+        "image": "",
+        "imageB": "",
+        "description": "overrated imo. gave me a crazy ass cover and all caps song names and it did not deliver the insane autism expected."
+    },
+    {
+        "name": "Earthling",
+        "artist":"David Bowie",
+        "score": "8.5",
+        "image": "",
+        "imageB": "",
+        "description": "i might just be a david bowie meatrider but this album is really underrated. not a single miss and half of it was peak bowie, little wonder !! battle for britain?!! siven years in tibet?! im afraid of americans😨😨 !?!!"
+    },
+    {
+        "name": "Late to Work",
+        "artist":"Beewall",
+        "score": "1.9",
+        "image": "https://i.imgur.com/Dbujt0s.png",
+        "imageB": "https://i.imgur.com/HU9ymCE.png",
+        "description": "this album is shit but look at that fucking cover LMAOOOO WHAT DID JOLLIBEE DO??!?!"
+    },
+    {
+        "name": "Ménage à Trois: Sextape Vol. 1, 2, 3",
+        "artist":"The-Dream",
+        "score": "4",
+        "image": "",
+        "imageB": "",
+        "description": "so unbelievably boring, i genuinely cannot believe i wasted so much on this not a single stad out song. this guy is also so horny its insane."
+    },
+    {
+        "name": "Ugly is Beautiful",
+        "artist":"Oliver Tree",
+        "score": "5",
+        "image": "",
+        "imageB": "",
+        "description": "good production (probably because he had like 500 people working on this) but feels soulless (probably because he had like 500 people working on this)"
+    },
+    {
+        "name": "Mouth Moods",
+        "artist":"Neil Cicierega",
+        "score": "8.2",
+        "image": "",
+        "imageB": "",
+        "description": "meme album but its bars im not even gonna lie. its charming and creative and i like it quite a lot."
+    },
+    {
+        "name": "SCARING THE HOES: DLC PACK",
+        "artist":"JPEGMAFIA & Danny Brown",
+        "score": "8.5",
+        "image": "",
+        "imageB": "",
+        "description": "its like the album, but more of it !! hermanos is also genuinely one of my favourite peggy songs, i cant explain it."
+    },
+    {
+        "name": "Yandhi",
+        "artist":"Kanye West",
+        "score": "8.7",
+        "image": "",
+        "imageB": "",
+        "description": "shit was majestic what did we do to end up getting the bad ending"
+    },
+    {
+        "name": "phoria",
+        "artist":"Ace of Spades (punk)",
+        "score": "6.5",
+        "image": "",
+        "imageB": "",
+        "description": "big improvements from dys, then is definitly darker and the lyrics pretty hard even for someone who doesnt really relate to ace of spades' struggle. doesnt mean i thought it was great though. a few songs feel needlessly long and it doesnt help that a lot of this album felt repetitive."
+    },
+    {
+        "name": "HIT ME HARD AND SOFT",
+        "artist": "Billie Eilish",
+        "score": "6.9",
+        "image": "",
+        "imageB": "",
+        "description": "it had a lot of bops but its so corny some songs were genuinely difficult to sit through. honestly i was so ready to stop listening at skinny it almost broke me and sunk cost is the only thing that pulled me through the diner."
+    },
+    {
+        "name": "Station to Station",
+        "artist": "David Bowie",
+        "score": "9.9",
+        "image": "https://i.imgur.com/jnEIRWP.png",
+        "imageB": "https://i.imgur.com/ed2uja8.png",
+        "description": "mf made one of my favourite albums white he was fucked up out of his mind, maybe this whole cocaine thing isnt so bad after all."
+    },
+    {
+        "name": "Illinois",
+        "artist": "Sufjan Stevens",
+        "score": "9.4",
+        "image": "https://i.imgur.com/bV8NO1q.png",
+        "imageB": "https://i.imgur.com/hQ03aQN.png",
+        "description": "folk isnt usually a genre im into but it is when its sufjan making it ig. the first song on here was gorgeous and blew my expectations out of the water, then that happened again 22 more times."
+    },
+    {
+        "name": "Late Registration",
+        "artist": "Kanye West",
+        "score": "9.9",
+        "image": "https://i.imgur.com/xouGf1c.png",
+        "imageB": "https://i.imgur.com/V5RxYWm.png",
+        "description": "second best kanye record, filled with so many replayable bangers its actually insane. probably my most replayed record, the skits werent even that bad either. (sorry for the poorly cropped back cover its a pain in the ass to find a high quality front and back that are the same size)."
+    },
+    {
         "name": "Exmilitary",
+        "artist": "Death Grips",
+        "score": "10",
         "image": "https://i.imgur.com/SudHsYW.jpeg",
         "imageB": "https://i.imgur.com/53RNfOI.png",
         "description": "my second favourite death grips thing. originally didnt put it here because its technically a mixtape but i dont care anymore this is the greatest mixtape ever made i pray every single day for it to come onto spotify. the kero kero bonito and tobuscus mashups are fire too im not even kidding."
     },
     {
         "name": "Chaser",
+        "artist": "Femtanyl",
+        "score": "10",
         "image": "https://i.imgur.com/2MBfPbG.jpeg",
         "imageB": "https://i.imgur.com/ZLHWU8e.jpeg",
         "description": "femtanyl's first album and its fire. i originally gave this an 8.5 because i thought it was really good but not a masterpiece but i slowly just kept listening to it over and over and now even though i only have 19 femtanyl songs in my playlist of 1000 femtanyl is my top artist."
     },
     {
         "name": "Sgt. Pepper's Lonely Hearts Club Band",
+        "artist": "The Beatles",
+        "score": "9.6",
         "image": "https://i.imgur.com/GrZvBMa.jpeg",
         "imageB": "https://i.imgur.com/mW3QTYe.png",
         "description": "the best beatles album abbey road put me to sleep but this is my shit, from start to end not a single miss the people on aoty are lying to you when they say this isnt as good as abbey road and revolver. the cover is also fire, idk why they cropped ghandi out though."
     },
     {
         "name": "To Pimp a Butterfly",
+        "artist": "Kendrick Lamar",
+        "score": "10",
         "image": "https://i.imgur.com/yVP4iVw.jpeg",
         "imageB": "https://i.imgur.com/ZNzaRJT.png",
         "description": "iconic album and probably one of the best hiphop albums ever made. the cover is also sick. this is really short because honestly im not smart enough, american enough or black enough to correctly talk about it but all i can say is that your racist uncle wont be racist if you make him listen to this."
     },
     {
         "name": "Igor",
+        "artist": "Tyler the Creator",
+        "score": "10",
         "image": "https://i.imgur.com/ow64JBT.png",
         "imageB": "https://i.imgur.com/c7RM9mf.png",
         "description": "my favourite tyler the creator album and probably my favourite album ever. tells a story as well as having only bangers. the vinyl even has a secret song (boyfriend) which is fire and the cover really stands out, listen to it now."
     },
     {
         "name": "The Money Store",
+        "artist": "Death Grips",
+        "score": "10",
         "image": "https://i.imgur.com/b5KRiVD.jpeg",
         "imageB": "https://i.imgur.com/jfmZ0my.png",
         "description": "this album got me drenched in sweat by the end of it. its like a gateway drug to more experiemental hiphop aswell as a gateway into crack. idk if id say you should buy this as the bdsm type cover probably wont leave a good impression on your friends and family."
     },
     {
         "name": "My Beautiful Dark Twisted Fantasy",
+        "artist": "Kanye West",
+        "score": "10",
         "image": "https://i.imgur.com/wQc2HIF.jpeg",
         "imageB": "https://i.imgur.com/UEGcCMp.png",
         "description": "best nicki minaj verse ever on monster, best rick ross verse on devil in a new dress and runaway is probably my favourite song ever. listen to it if you havent yet. the album art is also iconic and recognisable so its pretty cool to have."
     },
     {
-    "name": "Ziggy Stardust and the Spider From Mars",
-    "image": "https://i.imgur.com/CUNB0ig.jpeg",
-    "imageB": "https://i.imgur.com/n9pzOaH.png",
-    "description": "basically perfect album in my mind. not a single miss, five years is a perfect start and rock 'n' roll suicide is the perfect final song. the cover is icon too, also undeniable proof david bowies from the future he predicted kanye west!!"
+        "name": "Ziggy Stardust and the Spider From Mars",
+        "artist": "David Bowie",
+        "score": "10",
+        "image": "https://i.imgur.com/CUNB0ig.jpeg",
+        "imageB": "https://i.imgur.com/n9pzOaH.png",
+        "description": "basically perfect album in my mind. not a single miss, five years is a perfect start and rock 'n' roll suicide is the perfect final song. the cover is icon too, also undeniable proof david bowies from the future he predicted kanye west!!"
     }   
 ]
