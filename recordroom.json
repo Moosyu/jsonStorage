@@ -1,5 +1,157 @@
 [
     {
+        "name": "This Is How Tomorrow Moves'",
+        "artist":"beabadoobee",
+        "score": "7.1",
+        "image": "",
+        "imageB": "",
+        "description": "bababooey"
+    },
+    {
+        "name": "Clandestino'",
+        "artist":"Manu Chao",
+        "score": "9",
+        "image": "https://i.imgur.com/RHIV648.png",
+        "imageB": "https://i.imgur.com/9650zIw.jpeg",
+        "description": "im the king of the bongo, baby. my mothers' favourite album making it the soundtrack to my childhood. i like it a lot, every song is insanely catchy and fun. one of the most fun albums ive ever heard and still manages to fit some meaning in. the 78 on aoty doesnt do it service !!"
+    },
+    {
+        "name": "Get Rich or Die Tryin'",
+        "artist":"50 Cent",
+        "score": "7.9",
+        "image": "",
+        "imageB": "",
+        "description": "the highs are highs and the lows arent too bad. many men and p.i.m.p are hood classics too and help the situation."
+    },
+    {
+        "name": "Horses",
+        "artist":"Patti Smith",
+        "score": "6.9",
+        "image": "",
+        "imageB": "",
+        "description": "i didnt fw this one as much as expected. it was just kind of boring idk, its still fine but nothing too special imo."
+    },
+    {
+        "name": "The Black Album",
+        "artist":"JAY-Z",
+        "score": "8.7",
+        "image": "",
+        "imageB": "",
+        "description": "he sampled chase the devil so it got instant 8!! even the interlude was so fire !!"
+    },
+    {
+        "name": "Yeezus",
+        "artist":"Kanye West",
+        "score": "8.9",
+        "image": "",
+        "imageB": "",
+        "description": "closest kanye has gotten to being noided and it was beautiful"
+    },
+    {
+        "name": "Maigre",
+        "artist":"Igorrr & Ruby My Dear",
+        "score": "8.6",
+        "image": "",
+        "imageB": "",
+        "description": "that screaming sounded real. maybe we should check in on these guys or something idk."
+    },
+    {
+        "name": "Spirit Phone",
+        "artist":"Lemon Demon",
+        "score": "8.9",
+        "image": "",
+        "imageB": "",
+        "description": "tally hall and will wood want to be him so bad. hes to theatrecore what kendrick lamar is to hiphop. this man made an almost 2 hour long album and ive listened to it like 20 times."
+    },
+    {
+        "name": "CALL ME IF YOU GET LOST",
+        "artist":"Tyler the Creator",
+        "score": "9.6",
+        "image": "https://i.imgur.com/3mPWxi3.png",
+        "imageB": "https://i.imgur.com/uiZRXNb.png",
+        "description": "tyler came back with his most hiphop album in ages just to flex or something idk. hes my goat tho."
+    },
+    {
+        "name": "Inside (The Songs)",
+        "artist":"Bo Burnham",
+        "score": "8.1",
+        "image": "",
+        "imageB": "",
+        "description": "i guess i have a little theatre kid left in me"
+    },
+    {
+        "name": "Donda",
+        "artist":"Kanye West",
+        "score": "7.5",
+        "image": "",
+        "imageB": "",
+        "description": "this album has grown on me a fair bet. still feel like its too long but it has lots of fire songs and this album was just really memorable for some reason. maybe because everything after it was shit. come to life was also so fucking sad."
+    },
+    {
+        "name": "if you're out there i miss you ｡ﾟ･ (>_<) ･ﾟ｡",
+        "artist":"Sewerslvt",
+        "score": "4.3",
+        "image": "",
+        "imageB": "",
+        "description": "falls over the moment it gets past the start line and doesnt recover."
+    },
+    {
+        "name": "Dawn FM",
+        "artist":"The Weeknd",
+        "score": "7.6",
+        "image": "",
+        "imageB": "",
+        "description": "very solid record, kept me entertained the whole time. i also like the tyler feature."
+    },
+    {
+        "name": "Serotonin Dreams",
+        "artist":"BoyWithUke",
+        "score": "1",
+        "image": "",
+        "imageB": "",
+        "description": "this album is so cringy i just wanna curl up into a ball and hide. this is what 13 year olds with crying bart simpson pfps listen to."
+    },
+    {
+        "name": "In case I make It,",
+        "artist":"Will Wood",
+        "score": "5.9",
+        "image": "",
+        "imageB": "",
+        "description": "i like a bit of it but why the fuck is will trying so hard in every album just stop playing every sound at the same time jesus christ. cringyish lyrics dont help the situation."
+    },
+    {
+        "name": "Time 'n' Place",
+        "artist":"Kero Kero Bonito",
+        "score": "9.3",
+        "image": "https://i.imgur.com/awv94bg.jpeg",
+        "imageB": "https://i.imgur.com/DNQWzAg.png",
+        "description": "the death grips --> kkb pipeline is so real its crazy wtf. big step up lyrically from bonito generation and a different but just as enjoyable energy."
+    },
+    {
+        "name": "Bonito Generation",
+        "artist":"Kero Kero Bonito",
+        "score": "8.2",
+        "image": "",
+        "imageB": "",
+        "description": "thank you sarah bonito for ruining my life. the life grips jokes were real."
+    },
+    {
+        "name": "DAMN.",
+        "artist":"Kendrick Lamar",
+        "score": "8.7",
+        "image": "",
+        "imageB": "",
+        "description": "not as consistent as the rest of kendricks stuff but its full of bangers and a realy great listen"
+    },
+    {
+        "name": "Playdough Cooked in Tea",
+        "artist":"me&me",
+        "score": "0",
+        "image": "",
+        "imageB": "",
+        "description": "i was under the impression jokes were meant to be funny"
+    },
+    {
         "name": "LP! (Offline Version)",
         "artist":"JPEGMAFIA",
         "score": "9.8",
@@ -60,8 +212,8 @@
         "artist":"Sewerslvt",
         "score": "3",
         "image": "https://i.imgur.com/rX5mCLe.png",
-        "imageB": "https://i.imgur.com/bCfTOCp.png",
-        "description": "sewerslvt slowly improves, still hasnt made an album that didnt make my ears want to throw themselves into a bathtub with, which i guess is what the cover was symbolising."
+        "imageB": "https://i.imgur.com/rX5mCLe.png",
+        "description": "sewerslvt slowly improves, still hasnt made an album that didnt make my ears want to throw themselves into a bathtub with a toaster, which i guess is what the cover was symbolising."
     },
     {
         "name": "It Just Gets Worse",
@@ -100,7 +252,7 @@
         "artist":"Beewall",
         "score": "1.9",
         "image": "https://i.imgur.com/Dbujt0s.png",
-        "imageB": "https://i.imgur.com/HU9ymCE.png",
+        "imageB": "https://i.imgur.com/Dbujt0s.png",
         "description": "this album is shit but look at that fucking cover LMAOOOO WHAT DID JOLLIBEE DO??!?!"
     },
     {
