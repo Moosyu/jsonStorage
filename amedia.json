@@ -1,5 +1,40 @@
 [
       {
+            "type": "Manhwa",
+            "name": "The Baengri Clan's Unwanted Granddaughter",
+            "score": 6.3,
+            "image": "",
+            "description": "its a fine murim (kind of??) manga. im not 100% sure what genre trying to be but its an alright time waster."
+      },
+      {
+            "type": "Manga",
+            "name": "Omori",
+            "score": 6.6,
+            "image": "https://i.imgur.com/GIWp7yE.png",
+            "description": "i dont know why they are making an omori manga, it just seems like a bizarre choice to retell a game in manga form. i like the art a lot so far and the story is omori which i thought was only pretty alright. i also feel like it should have been english originally and then go to japanese?? like omori was most popular in america, maybe to spread its influence but in that case i would have made it in chinese or something. who knows."
+      },
+      {
+            "type": "Manga",
+            "name": "Tokyo-hatsu Isekai-yuki",
+            "score": 6.1,
+            "image": "",
+            "description": "a pretty alright set of 9 short stories, not a massive fan of the dating looking art though"
+      },
+      {
+            "type": "Manga",
+            "name": "Wistoria: Wand and Sword",
+            "score": 4,
+            "image": "https://i.imgur.com/by0JTxX.png",
+            "description": "the art is sometimes incredible, the story on the other hand had me constantly cringing. if they got an actual good author on this it could have been so great. id still read if you like seeing pretty pannels every few chapters."
+      },
+      {
+            "type": "Manga",
+            "name": "Don't Destroy Humanity",
+            "score": 6.8,
+            "image": "https://i.imgur.com/tRC0IeT.png",
+            "description": "could have become a 7 if it had more time to expand but it got cut off too soon :( i also wasnt a massive fan of the tl frying to guilt trip the readers saying its our fault it got cancelled and shit. mf you were the one giving it to use for free, how you trying to take the high road."
+      },
+      {
             "type": "Manga",
             "name": "The Big Bees",
             "score": 6.3,
@@ -1759,7 +1794,7 @@
       {
             "type": "Manga",
             "name": "Hinamatsuri",
-            "score": 9.2,
+            "score": 9.5,
             "image": "https://i.imgur.com/I3sBTNP.jpg",
             "description": "they said rock and roll was evil and nobody believed them. look whos laughing now."
       },
@@ -2333,9 +2368,9 @@
       {
             "type": "Manhwa",
             "name": "Eleceed",
-            "score": 7.3,
+            "score": 7.6,
             "image": "https://i.imgur.com/XJfzrx5.png",
-            "description": "every man in this looks like a lesbian"
+            "description": "every man in this looks like a lesbian. edit: my favourite slop, the art growth is honestly insane and the story gives me warmth."
       },
       {
             "type": "Manhwa",
@@ -2958,14 +2993,14 @@
             "name": "Solo Leveling",
             "score": 7.6,
             "image": "",
-            "description": "can you smell what the rock is cooking? it doesnt do anything special or outside what i thought it would do, but it does what it does with a level of proficiency very uncommon these days."
+            "description": "can you smell what the rock is cooking? edit: it doesnt do anything special or outside what i thought it would do, but it does what it does with a level of proficiency very uncommon these days."
       },
       {
             "type": "Manhwa",
             "name": "A Returner's Magic Should Be Special",
             "score": 6.7,
             "image": "",
-            "description": "im never listening to a hypixel skyblock players recommendations again"
+            "description": "im never listening to a hypixel skyblock players recommendations again. edit: gets old pretty quickly but the art is pretty unique and its an alright time waster."
       },
       {
             "type": "Manhwa",
@@ -2977,7 +3012,7 @@
       {
             "type": "Manhwa",
             "name": "Hellper",
-            "score": 8.6,
+            "score": 8.7,
             "image": "https://i.imgur.com/NbP5gVY.png",
             "description": "the author really thought hell and then wrote one of the most well made comics ever with great art, fights and characters"
       },
@@ -2986,7 +3021,7 @@
             "name": "Bastard",
             "score": 8.9,
             "image": "",
-            "description": "rather dank"
+            "description": "rather dank. edit: grown to be one of my favourite combination of mystery and physiological. highly recommend even if you arent interested in either because you will be after reading this."
       },
       {
             "type": "Manhwa",
@@ -3000,21 +3035,21 @@
             "name": "Devilman: Crybaby",
             "score": 8.2,
             "image": "",
-            "description": "chief priest sounds like cheif keef"
+            "description": "chief priest sounds like cheif keef. anyways this show was kind of bizarre but also very unique and fun."
       },
       {
             "type": "Manga",
             "name": "The Fable",
-            "score": 8.7,
+            "score": 8.9,
             "image": "",
-            "description": "most metal shit ever broadcasted"
+            "description": "most metal shit ever broadcasted. the humor is right up my alley (though not as funny as hinamatsuri) and the art looks like it tastes like cotton candy i cant explain it."
       },
       {
             "type": "Manhwa",
             "name": "Overgeared",
             "score": 3.6,
             "image": "",
-            "description": "boring"
+            "description": "boring. edit: how are you meant to make stakes when everything is a video game?"
       },
       {
             "type": "Manhwa",
@@ -3028,7 +3063,7 @@
             "name": "Nichijou - My Ordinary Life",
             "score": 2.9,
             "image": "",
-            "description": "its just not funny man"
+            "description": "its just not funny man edit:, usually a fan of absurdist comedy but this just doesnt do it for me"
       },
       {
             "type": "Anime",
@@ -3042,6 +3077,6 @@
             "name": "Tomb Raider King",
             "score": 3,
             "image": "",
-            "description": "nvm shit book"
+            "description": "trash book. edit: repeative slop, only redeeming factor is the art which is sometimes above average."
       }
 ]
