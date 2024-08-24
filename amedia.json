@@ -1,5 +1,26 @@
 [
       {
+            "type": "Comic",
+            "name": "Something is Killing the Children",
+            "score": 7.2,
+            "image": "https://i.imgur.com/0U3smMV.png",
+            "description": "kind of corny sometimes but its a good time and i really like the art style"
+      },
+      {
+            "type": "Comic",
+            "name": "Saga",
+            "score": 7.3,
+            "image": "https://i.imgur.com/lZglGIK.jpeg",
+            "description": "pretty good, not usually into space things but this was done alright and i think the art was unique and pretty nice to look at. i also saw tvs having sex so that was pretty interesting."
+      },
+      {
+            "type": "Comic",
+            "name": "Unsounded",
+            "score": 5.7,
+            "image": "https://i.imgur.com/mMJpBC0.png",
+            "description": "the main character is so fucking annoying and it just wasnt that interesting. only a 5 because the art went hard every once in a while for some reason even though most of a time it was mid."
+      },
+      {
             "type": "Manga",
             "name": "Childhood Friend of the Zenith",
             "score": 5.4,
@@ -2908,7 +2929,7 @@
             "type": "Comic",
             "name": "Steve Lichman",
             "score": 7.6,
-            "image": "https://imgur.com/a/rWnOdCA",
+            "image": "https://i.imgur.com/xAFnlxV.png",
             "description": "hes just one of the boys"
       },
       {
