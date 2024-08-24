@@ -54,12 +54,6 @@
             "description": "the plotlines were really hard to follow and the forced blowjob scene was made worse by me watching it with my dad"
       },
       {
-            "type": "Book",
-            "name": "Strange Case of Dr. Jekyll and Mr. Hyde",
-            "score": 7.8,
-            "description": "really interesting short story that my english teacher spoiled :despair:"
-      },
-      {
             "type": "Movie",
             "name": "The Martian",
             "score": 8.2,
@@ -246,12 +240,6 @@
             "description": "we had to watch this and everyone was looking at the one middle eastern kid the entire time"
       },
       {
-            "type": "Comic",
-            "name": "Steve Lichman",
-            "score": 7.6,
-            "description": "hes just one of the boys"
-      },
-      {
             "type": "TV Show",
             "name": "Phineas and Ferb",
             "score": 8.5,
@@ -346,12 +334,6 @@
             "name": "Smiling Friends",
             "score": 9.1,
             "description": "mr frog is justin roiland"
-      },
-      {
-            "type": "Book",
-            "name": "All Tomorrows",
-            "score": 8.6,
-            "description": "the qu were just environmental activists"
       },
       {
             "type": "TV Show",
@@ -852,99 +834,184 @@
             "description": "tiny budget but they made it work really well"
       },
       {
+            "type": "Anime",
+            "name": "My Hero Academia",
+            "score": 5.4,
+            "description": "one of the things of all time"
+      },
+      {
+            "type": "Anime",
+            "name": "Devilman: Crybaby",
+            "score": 8.2,
+            "description": "chief priest sounds like cheif keef. anyways this show was kind of bizarre but also very unique and fun."
+      },
+      {
+            "type": "Anime",
+            "name": "Saving 80,000 Gold in Another World for My Retirement",
+            "score": 2.6,
+            "description": "i honestly can not believe i was recommended such garbage"
+      },
+      {
+            "type": "Anime",
+            "name": "Spy X Family",
+            "score": 6.9,
+            "description": "what the dog doin"
+      },
+      {
+            "type": "Anime",
+            "name": "Attack on Titan",
+            "score": 6.4,
+            "description": "it upsets me greatly that people think this is good"
+      },
+      {
+            "type": "Anime",
+            "name": "Chainsaw Man",
+            "score": 8.8,
+            "description": "i hate poor people"
+      },
+      {
+            "type": "Anime",
+            "name": "Bungo Stray Dogs",
+            "score": 6.8,
+            "description": "my expectations were too high"
+      },
+      {
+            "type": "Anime",
+            "name": "Assassination Classroom",
+            "score": 6.6,
+            "description": "femboy"
+      },
+      {
+            "type": "Anime",
+            "name": "One Punch Man",
+            "score": 8.9,
+            "description": "so good (except for season 2 but we pretend that doesnt exist) i read the manga"
+      },
+      {
+            "type": "Anime",
+            "name": "Mob Psycho 100",
+            "score": 9.4,
+            "description": "i have no doubt that the animators were high making this"
+      },
+      {
+            "type": "Anime",
+            "name": "Made in Abyss",
+            "score": 9.6,
+            "description": "first anime i watched, shit goes harder than diamonds. set my expectations way too high."
+      },
+      {
+            "type": "Anime",
+            "name": "Jujutsu Kaisen",
+            "score": 8.6,
+            "image": "https://i.imgur.com/zbcSW28.png",
+            "description": "some guy named kenzo is getting paid 5 yen per 19 hour shift for animating this shit"
+      },
+      {
+            "type": "Anime",
+            "name": "JoJo's Bizarre Adventure Part 3: Stardust Crusaders",
+            "score": 6.2,
+            "description": "my google drive account got deleted for pirating this, the battles were cool, way better then part 2 and 1 because they have stands now but it barely had a plot."
+      },
+      {
+            "type": "Anime",
+            "name": "JoJo's Bizarre Adventure Part 5: Golden Wind",
+            "score": 8.8,
+            "description": "my favourite group dynamic so far and the setting felt new and unique to the part because italy is just cool. the plot was technically better then part 4 with non of those random loose threads but diavolo was such a boring character and got carried so hard by doppio."
+      },
+      {
+            "type": "Anime",
+            "name": "JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable",
+            "score": 9,
+            "description": "my favourite jojo's bizarre adventure anime with one of my favourite villains of all time. kira is such an interesting character and this setting was such a breath of fresh air compared to the previous massive world wide trips. kira being so interesting almost makes me forget the random plot points they just forgot to expand on."
+      },
+      {
+            "type": "Anime",
+            "name": "JoJo's Bizarre Adventure Part 2: Battle Tendency",
+            "score": 4.6,
+            "description": "a step above part 1 because the main character isnt a piece of cardboard but thats about the only thing i found better in this part and it still has ripple"
+      },
+      {
+            "type": "Anime",
+            "name": "JoJo's Bizarre Adventure Part 1: Phantom Blood",
+            "score": 3.9,
+            "description": "it was just kind of boring, it had the same jojo vibe but was lacking in every aspect"
+      },
+      {
+            "type": "Anime",
+            "name": "Neon Genesis Evangelion",
+            "score": 2.9,
+            "description": "the most overhyped series. its boring and repetitive, i hate every character and even if they are realistic it doesnt change the fact that shinji is a little bitch boy, asuka is just a bitch and rei is hardly a person who has almost 0 character development. the plot is so complicated and convoluted with a mystery that is impossible to understand without seeing other evangelion media and forgive me for wanting a series to be able to be digested without going through other movies just to get an understanding of a mystery that should have been answered at the start. no characters ever die, and if they do they are alive in the next episode so i am never worried and the symbolism looks cool but is meaningless and because it looks cool was literally the reason it was added."
+      },
+      {
+            "type": "Anime",
+            "name": "Kaguya-sama: Love is War",
+            "score": 3.2,
+            "description": "i feel like im becoming less of a man every episode"
+      },
+      {
+            "type": "Anime",
+            "name": "KonoSuba",
+            "score": 3,
+            "description": "imagine comedy except its not funny"
+      },
+      {
+            "type": "Anime",
+            "name": "Frieren - Beyond Journey's End",
+            "score": 9.1,
+            "description": "i hope the artists hands arent burnt from drawing this fire"
+      },
+      {
+            "type": "Anime",
+            "name": "A Returner's Magic Should Be Special",
+            "score": 5.2,
+            "description": "a really average anime, just read the manhwa but even that is only ok"
+      },
+      {
+            "type": "Anime",
+            "name": "Cyberpunk: Edgerunners",
+            "score": 10,
+            "description": "how is it possible to fit this much into ten episodes"
+      },
+      {
+            "type": "Anime",
+            "name": "Migi to Dali",
+            "score": 7.2,
+            "description": "the steve jobs bit was the funniest joke ive heard in anime, it was out of nowhere"
+      },
+      {
+            "type": "Anime",
+            "name": "Tokyo Ghoul",
+            "score": 6.1,
+            "description": "this is more edgy then the manga without any of the proper character development stopping it from being completely edgy like the manga did"
+      },
+      {
+            "type": "Anime",
+            "name": "Dorohedoro",
+            "score": 8.3,
+            "description": "good but the art and just general it isnt as good as the manga but ebisu in the shark costume was definitely better than the manga. still it is worth a watch if you are unwilling to read the manga."
+      },
+      {
+            "type": "Anime",
+            "name": "Hinamatsuri",
+            "score": 8.6,
+            "description": "funny with incredible animation, if only there was more"
+      },
+      {
+            "type": "Anime",
+            "name": "Nichijou - My Ordinary Life",
+            "score": 2.9,
+            "description": "its just not funny man edit:, usually a fan of absurdist comedy but this just doesnt do it for me"
+      },
+      {
+            "type": "Anime",
+            "name": "Demon Slayer",
+            "score": 8.1,
+            "description": "wow the animation is insane also the entertainment district was peak"
+      },
+      {
             "type": "Movie",
             "name": "Five Nights at Freddy's",
             "score": 5.5,
             "description": "it could have been worse"
-      },
-      {
-            "type": "Comic",
-            "name": "Flashpoint",
-            "score": 8.3,
-            "description": "wow this is awesome i sure hope the movie wont be garbage"
-      },
-      {
-            "type": "Comic",
-            "name": "Injustice",
-            "score": 7.4,
-            "description": "noo robin why did you do it"
-      },
-      {
-            "type": "Comic",
-            "name": "Altitude",
-            "score": 5.9,
-            "description": "i have a sudden urge to start climbing"
-      },
-      {
-            "type": "Comic",
-            "name": "Maus",
-            "score": 8.3,
-            "description": "im starting to think perhaps this isnt actually about mice"
-      },
-      {
-            "type": "Book",
-            "name": "The Hunger Games",
-            "score": 6.8,
-            "description": "holy heck its just minecraft"
-      },
-      {
-            "type": "Book",
-            "name": "Wonder",
-            "score": 8.7,
-            "description": "maybe my life isnt that bad"
-      },
-      {
-            "type": "Book",
-            "name": "A Tale of Two Cities",
-            "score": 6.9,
-            "description": "i get why its called so good but its kind of painful to read sometimes because of how its written"
-      },
-      {
-            "type": "Manhwa",
-            "name": "Lord of the Nutcracker Men",
-            "score": 4.8,
-            "description": "maybe i would have enjoyed it more if i didnt have to write a chapter review every chapter for english"
-      },
-      {
-            "type": "Book",
-            "name": "Diary of a Wimpy Kid",
-            "score": 6.7,
-            "description": "these books looked so enticing at the schools book fairs"
-      },
-      {
-            "type": "Book",
-            "name": "Winnie-the-Pooh",
-            "score": 7.1,
-            "description": "nice art and entertaining short stories also its winnie the pooh"
-      },
-      {
-            "type": "Book",
-            "name": "The Hobbit",
-            "score": 7.9,
-            "description": "mount doom is a pretty dumb name"
-      },
-      {
-            "type": "Book",
-            "name": "Lord of the Flies",
-            "score": 7.5,
-            "description": "to be honest this is exactly what i would expect british people to do"
-      },
-      {
-            "type": "Book",
-            "name": "Harry Potter",
-            "score": 8,
-            "description": "younger me got so scared by the snake"
-      },
-      {
-            "type": "Book",
-            "name": "Percy Jackon",
-            "score": 7.2,
-            "description": "i tried rereading this series but it wasnt as good as i remembered"
-      },
-      {
-            "type": "Book",
-            "name": "Animal Farm",
-            "score": 8,
-            "description": "most metal shit my english teacher ever made me read"
       }
 ]
