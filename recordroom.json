@@ -1,5 +1,398 @@
 [
     {
+        "name": "Plants Vs. Zombies (Original Video Game Soundtrack)",
+        "artist":"Laura Shigihara",
+        "score": "7.7",
+        "image": "",
+        "imageB": "",
+        "description": "why was this flash games soundtrack so good wtf"
+    },
+    {
+        "name": "Ocean Eyes",
+        "artist":"Owl City",
+        "score": "6",
+        "image": "",
+        "imageB": "",
+        "description": "its fine but forgettable. nothing stood out as bad but same goes for nothing being good."
+    },
+    {
+        "name": "Loss of Life",
+        "artist":"MGMT",
+        "score": "7.7",
+        "image": "",
+        "imageB": "",
+        "description": "all over the place but it has a lot of great stuff, dancing in babylon is magestic and loss of life might be my favourite or at least one of my favourites this year"
+    },
+    {
+        "name": "MGMT",
+        "artist":"MGMT",
+        "score": "6",
+        "image": "",
+        "imageB": "",
+        "description": "first half was good, second half wasnt, probably evens out to like a 6"
+    },
+    {
+        "name": "Congratulations",
+        "artist":"MGMT",
+        "score": "7",
+        "image": "",
+        "imageB": "",
+        "description": "living tombstone ass cover"
+    },
+    {
+        "name": "Little Dark Age",
+        "artist":"MGMT",
+        "score": "7.7",
+        "image": "",
+        "imageB": "",
+        "description": "random nazis online have never been the same since this dropped"
+    },
+    {
+        "name": "Gemini Rights",
+        "artist":"Steve Lacy",
+        "score": "8",
+        "image": "",
+        "imageB": "",
+        "description": "smooth. i get why tiktok likes this stuff."
+    },
+    {
+        "name": "Choose Your Weapon",
+        "artist":"Hiatus Kaiyote",
+        "score": "6.5",
+        "image": "",
+        "imageB": "",
+        "description": "best part of the album is the cover. i dont like jazz either so that doesnt help."
+    },
+    {
+        "name": "TRANS TRAP",
+        "artist":"gundeityxlestabed",
+        "score": "6.4",
+        "image": "",
+        "imageB": "",
+        "description": "lucky this is only 10 minutes because if it was like 30 this would be like 2"
+    },
+    {
+        "name": "The Forever Story (Extended Version)",
+        "artist":"JID",
+        "score": "9.5",
+        "image": "",
+        "imageB": "",
+        "description": "this my son, he came from these nuts. this negro came back from school all tatted up the sistine chapel talkin bout how he aint playin football no more."
+    },
+    {
+        "name": "The Blackfayce - EP",
+        "artist":"Mrgirl",
+        "score": "1",
+        "image": "",
+        "imageB": "",
+        "description": "i still think that hes doing this ironically but hes fallen so far its just kind of sad"
+    },
+    {
+        "name": "Ultra 85",
+        "artist":"Logic",
+        "score": "8.2",
+        "image": "",
+        "imageB": "",
+        "description": "just looked out the window and saw a pig flying wtf"
+    },
+    {
+        "name": "Young Alpha 5",
+        "artist":"Young Alpha",
+        "score": "0.5",
+        "image": "",
+        "imageB": "",
+        "description": "young alpha couldnt even get a girl on the cover this shit is ass"
+    },
+    {
+        "name": "Mane I Can't",
+        "artist":"Earson",
+        "score": "4.5",
+        "image": "",
+        "imageB": "",
+        "description": "sometimes you dig too deep"
+    },
+    {
+        "name": "Mane I Can't",
+        "artist":"Earson",
+        "score": "4.5",
+        "image": "",
+        "imageB": "",
+        "description": "sometimes you dig too deep"
+    },
+    {
+        "name": "Acid Rap",
+        "artist":"Chance the Rapper",
+        "score": "7.3",
+        "image": "",
+        "imageB": "",
+        "description": "collapses halfway through but the start and the end are pretty great and just a fun time"
+    },
+    {
+        "name": "1959",
+        "artist":"/.../",
+        "score": "6.6",
+        "image": "",
+        "imageB": "",
+        "description": "its fine, didnt make me feel anything in specific it was just an alright time"
+    },
+    {
+        "name": "Dream Vessel",
+        "artist":"Blushy Buttercup",
+        "score": "2.6",
+        "image": "",
+        "imageB": "",
+        "description": "guess what this has in common with mommycore"
+    },
+    {
+        "name": "Coloring Book",
+        "artist":"Chance the Rapper",
+        "score": "7.2",
+        "image": "",
+        "imageB": "",
+        "description": "charming and infectious. unlike acid rap it doesnt collapse halfway through but it doesnt reach as high highs as acid rap. still puts a smile on my face though."
+    },
+    {
+        "name": "to whoever wants to hear",
+        "artist":"Dream",
+        "score": "2",
+        "image": "",
+        "imageB": "",
+        "description": "yung gravy made a song better this is not a good sign"
+    },
+    {
+        "name": "Hazbin Hotel (Original Soundtrack)",
+        "artist":"a bunch of people",
+        "score": "3",
+        "image": "",
+        "imageB": "",
+        "description": "its so cringy i cant take it. if i get to hell and its made by vivziepop im gonna be so pissed."
+    },
+    {
+        "name": "Bird's Eye",
+        "artist":"Ravyn Lenae",
+        "score": "7.3",
+        "image": "",
+        "imageB": "",
+        "description": "it was a good listen, kept me interested and was pretty chill but didnt really leave me wanting more"
+    },
+
+    {
+        "name": "After the Magic",
+        "artist":"파란노을 [Parannoul]",
+        "score": "8.3",
+        "image": "",
+        "imageB": "",
+        "description": "decided to give this a listen after seeing anthony fantano (my biggest opp) give sky hundred a 6. pretty fire, still prefer sky hundred though !!"
+    },
+    {
+        "name": "RECKLESS",
+        "artist":"NAV",
+        "score": "4.5",
+        "image": "",
+        "imageB": "",
+        "description": "the good: great beats, the bad: everything else"
+    },
+    {
+        "name": "Charm",
+        "artist":"Clairo",
+        "score": "7.3",
+        "image": "",
+        "imageB": "",
+        "description": "i get while people like it but also it bored me to death so i dont care. still i cant say its bad as it clearly just isnt for me"
+    },
+    {
+        "name": "Yes, Virginia...",
+        "artist":"The Dresden Dolls",
+        "score": "6",
+        "image": "",
+        "imageB": "",
+        "description": "made me cringe, make this all in a language i dont understand and ill like it more"
+    },
+    {
+        "name": "The Black Parade",
+        "artist":"My Chemical Romance",
+        "score": "7.5",
+        "image": "",
+        "imageB": "",
+        "description": "might be because i listened to this right after tcfsr but it as just too emo for me to really think of it as more then just good"
+    },
+    {
+        "name": "Popular Monster",
+        "artist":"Falling In Reverse",
+        "score": "3",
+        "image": "",
+        "imageB": "",
+        "description": "you know those videos of two squares and the smaller one is knocking against the wall and the heavier one and its counting how many hits until the heavy one gets knocked away? yeah"
+    },
+    {
+        "name": "Have a Nice Life",
+        "artist":"Deathconsciousness",
+        "score": "9.7",
+        "image": "https://i.imgur.com/QuMPnoh.png",
+        "imageB": "https://i.imgur.com/6mACuJv.png",
+        "description": "i think i might like shoegaze (wtf) ?? ive never been depressed (im somewhat of a mental health massiah) so its not like i relate too heavily to whats being said here, but i can hear the emotion in this and its mad beautiful tbh (and just between me and you, i cried on there is no food). there are also lots of bangers in this album too, like half of this album is going on my regular listening playlist and theres nothing anyone can do to stop me from playing them when i get the aux."
+    },
+    {
+        "name": "50 Cent",
+        "artist":"Get Rich or Die Tryin'",
+        "score": "7.9",
+        "image": "",
+        "imageB": "",
+        "description": "pretty mixed bag but it was incredible more then it was awful. could do with like 20 less minutes too."
+    },
+    {
+        "name": "Hex Dealer",
+        "artist":"Lip Critic",
+        "score": "8.3",
+        "image": "",
+        "imageB": "",
+        "description": "i love this guys voice so much, very good addition to my favourite genre, terminally onlinecore"
+    },
+    {
+        "name": "Desert of Doom",
+        "artist":"Bruhguy3457",
+        "score": "6.3",
+        "image": "",
+        "imageB": "",
+        "description": "very amateurish sounding (idk how to describe it)"
+    },
+    {
+        "name": "Under Pressure",
+        "artist":"Logic",
+        "score": "5.9",
+        "image": "",
+        "imageB": "",
+        "description": "not good, boring a lot of the time but never too bad that it was funny, just slightly above mid."
+    },
+    {
+        "name": "Kurzgesagt, Vol. 8 (Original Motion Picture Soundtrack)",
+        "artist":"Epic Mountain",
+        "score": "7.8",
+        "image": "",
+        "imageB": "",
+        "description": "its good studying music istg"
+    },
+    {
+        "name": "Steroids (Crouching Tiger Hidden Gabber Megamix)",
+        "artist":"Death Grips",
+        "score": "8.9",
+        "image": "",
+        "imageB": "",
+        "description": "20 minutes of pure autism holy shit"
+    },
+    {
+        "name": "PRODUCT",
+        "artist":"SOPHIE",
+        "score": "7.3",
+        "image": "",
+        "imageB": "",
+        "description": "BIPP carries so hard"
+    },
+    {
+        "name": "Fine Line",
+        "artist":"Harry Styles",
+        "score": "7",
+        "image": "",
+        "imageB": "",
+        "description": "imagine salt on white rice (it still tastes kinda good though i know this is the whitest thing ive ever said just hear me out)"
+    },
+    {
+        "name": "Bump This",
+        "artist":"Danny Gonzalez",
+        "score": "4",
+        "image": "",
+        "imageB": "",
+        "description": "im danny gonzalez's biggest fan but this is kind of ass. bad boy is pretty alright but everything else just isnt funny idk."
+    },
+    {
+        "name": "Jenny Death",
+        "artist":"Death Grips",
+        "score": "9.6",
+        "image": "https://i.imgur.com/dJC5YVB.png",
+        "imageB": "https://i.imgur.com/dJC5YVB.png",
+        "description": "my favourite half of the powers that b. no back cover for this one as im pretty sure it never got a physical release?"
+    },
+    {
+        "name": "How Are We Feeling Today?",
+        "artist":"Kaizo Slumber",
+        "score": "8.2",
+        "image": "",
+        "imageB": "",
+        "description": "was wondering on gross technique how they would keep up this energy then i heard gengar ectasy and have been twitching on the floor ever since"
+    },
+    {
+        "name": "How Are We Feeling Today?",
+        "artist":"Kaizo Slumber",
+        "score": "8.2",
+        "image": "",
+        "imageB": "",
+        "description": "was wondering on gross technique how they would keep up this energy then i heard gengar ectasy and have been twitching on the floor ever since"
+    },
+    {
+        "name": "Valedictorian",
+        "artist":"ian",
+        "score": "2.5",
+        "image": "",
+        "imageB": "",
+        "description": "dont really listen to yeat or mabu so this just sounds uninspired to me. it does not spark joy. good thing its only 20 minutes because i might have gone insane."
+    },
+    {
+        "name": "Purple Rain",
+        "artist":"Prince",
+        "score": "8.8",
+        "image": "",
+        "imageB": "",
+        "description": "great cover. i had a real good time with purple rain even i dont think its top 25. i watched the movie after though and that was ass."
+    },
+    {
+        "name": "Vespertine",
+        "artist":"Björk",
+        "score": "8.6",
+        "image": "",
+        "imageB": "",
+        "description": "my dad complaining the whole time probably didnt help but im yet to understand why this is one of the top 10 highest rated of all times, still thought it was great though."
+    },
+    {
+        "name": "So",
+        "artist":"Peter Gabriel",
+        "score": "8.8",
+        "image": "",
+        "imageB": "",
+        "description": "a very groovy album and the kate bush feature was sick, sledgehammer has been on repeat ever since listening."
+    },
+    {
+        "name": "Imaginal Disk",
+        "artist":"Magdalena Bay",
+        "score": "9.6",
+        "image": "https://i.imgur.com/S8aR4ii.png",
+        "imageB": "https://i.imgur.com/S8aR4ii.png",
+        "description": "woke up, got some coffee, opened up aoty, looked at the discover page and spat that shit out. sorry peggy i cant listen to you im too busy flying she looked at me had my arms spread 400ft above ground and that was just the first song holy shit (best song is tunnel vision btw). (no back cover yet because it just came out)."
+    },
+    {
+        "name": "Romance",
+        "artist":"Fontaines D.C.",
+        "score": "8.2",
+        "image": "",
+        "imageB": "",
+        "description": "a great album that missed being incredible by having bug, motorcycle boy and sundowner, all of its worst songs in a row"
+    },
+    {
+        "name": "Exmili-Toby",
+        "artist":"Tobuscus",
+        "score": "5.5",
+        "image": "",
+        "imageB": "",
+        "description": "kyle rittenhouse (the song) was kind of fire im not even gonna lie"
+    },
+    {
+        "name": "Hounds of Love",
+        "artist":"Kate Bush",
+        "score": "7.8",
+        "image": "",
+        "imageB": "",
+        "description": "overrated but still good, lots of great songs in this but also a few which were boring"
+    },
+    {
         "name": "CAROUSEL FROM HELL",
         "artist":"LustSickPuppy",
         "score": "7.3",
@@ -89,7 +482,7 @@
     },
     {
         "name": "Sky Hundred",
-        "artist":"Parannoul",
+        "artist":"파란노을 [Parannoul]",
         "score": "8.6",
         "image": "",
         "imageB": "",

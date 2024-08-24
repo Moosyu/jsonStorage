@@ -1,6 +1,12 @@
 [
       {
             "type": "Movie",
+            "name": "Purple Rain",
+            "score": 4.3,
+            "description": "just listen to the album this is a waste of time, so boring and the acting isnt great either"
+      },
+      {
+            "type": "Movie",
             "name": "The Accountant",
             "score": 6.4,
             "description": "entertaining, not as entertaining as the modern day masterpiece american assassin mind you but i could sit through it without getting bored and complain, my favourite thing to do"
