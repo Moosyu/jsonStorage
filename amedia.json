@@ -1,5 +1,19 @@
 [
       {
+            "type": "Webtoon",
+            "name": "Purple Hyacinth",
+            "score": 7.3,
+            "image": "",
+            "description": "kym is such a stupid ass name i cannot take it and at the start the exposition was so forced, they could have just had the dating helps you moving on line but ig they thought i was stupid."
+      },
+      {
+            "type": "Webtoon",
+            "name": "My Girlfriend Is an Orc Warlord!",
+            "score": 2.9,
+            "image": "",
+            "description": "basically no story with gags that dont do anything for me"
+      },
+      {
             "type": "Comic",
             "name": "Something is Killing the Children",
             "score": 6.8,
@@ -590,7 +604,7 @@
       {
             "type": "Manhua",
             "name": "Feng Shen Ji",
-            "score": 8.3,
+            "score": 8.2,
             "image": "https://i.imgur.com/NUQQk4e.png",
             "description": "the first manhua ive read thats actually good amongst manga standards. differs from the normal shounen and the artwork is straight up beautiful."
       },
@@ -1029,13 +1043,6 @@
             "description": "isnt the problem with their relationships just that they have different interests not because her interest is writing gay porn"
       },
       {
-            "type": "Movie",
-            "name": "Blue Giant",
-            "score": 8.4,
-            "image": "",
-            "description": "its like the manga but i dont have to put jazz on in the background. has some wonky looking cgi but also has some wild mob psycho like art so it evens out."
-      },
-      {
             "type": "Manhwa",
             "name": "Maybe Meant to Be",
             "score": 6.8,
@@ -1111,13 +1118,6 @@
             "score": 4.3,
             "image": "",
             "description": "i was trying to read Navillera: Like a Butterfly but i accidentally ended up reading this thinking the summary was just really off. im actually stupid."
-      },
-      {
-            "type": "Movie",
-            "name": "Spirited Away",
-            "score": 8.4,
-            "image": "",
-            "description": "similar experience to getting lost in a supermarket"
       },
       {
             "type": "Manga",
@@ -1681,7 +1681,7 @@
       },
       {
             "type": "Manga",
-            "name": "Frieren - Beyond Journey's End ",
+            "name": "Frieren - Beyond Journey's End",
             "score": 8.5,
             "image": "https://i.imgur.com/zXiKSaa.jpg",
             "description": "damn the first chapters are rough"
