@@ -22,14 +22,10 @@
       .then((sites) => {
 
         // Find the current site in the data
-        if (name != "n/a") {
-            const matchedSiteIndex = sites.findIndex(
+        const matchedSiteIndex = sites.findIndex(
             (site) => site.name.toLowerCase() == name.toLowerCase()
             );
             const matchedSite = sites[matchedSiteIndex];
-        } else {
-            const matchedSite = 1;
-        }
 
 
         if (dir == "prev"){
