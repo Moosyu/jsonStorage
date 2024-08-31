@@ -296,7 +296,7 @@ sites = [
   ]
 
 def process_sites(data):
-    processed_data = {"sites": []}
+    processed_data = []
     for site in data:
         url = site[0]
         name = site[1] if len(site) > 1 else "n/a"
@@ -306,7 +306,7 @@ def process_sites(data):
             "url": url,
             "desc": desc,
         }
-        processed_data["sites"].append(site_entry)
+        processed_data.append(site_entry)
     return processed_data
 
 output = process_sites(sites)
@@ -315,3 +315,4 @@ with open('sitesNekoRing.json', 'w') as f:
     json.dump(output, f, indent=2)
 
 print("finished !!")
+
