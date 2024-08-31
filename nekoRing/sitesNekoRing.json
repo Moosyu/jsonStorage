@@ -1,5 +1,4 @@
-{
-  "sites": [
+  [
     {
       "name": "Webring Site <em>main site</em>",
       "url": "https://webring.nekoweb.org/",
@@ -401,4 +400,3 @@
       "desc": "n/a"
     }
   ]
-}
