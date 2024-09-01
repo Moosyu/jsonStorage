@@ -25,7 +25,7 @@ for name, button, url in site_list_matches:
     formatted_name = re.sub(r'\W+', '', name.lower())
     site_list.append({
         "name": formatted_name,
-        "button": button,
+        "button": "https://eggring.neocities.org/" + button,
         "url": url
     })
 
