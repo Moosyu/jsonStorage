@@ -160,8 +160,23 @@
     "url": "https://ferdvonvestra.neocities.org/"
   },
   {
-    "name": "moosyu",
-    "button": "https://eggring.neocities.org/buttons/swirlCatppuccin.gif",
+    "name": "quatroworld",
+    "button": "https://eggring.neocities.org/buttons/quatro.gif",
+    "url": "https://quatroworld.net/"
+  },
+  {
+    "name": "windigoneswhatevs",
+    "button": "https://eggring.neocities.org/buttons/windigone.gif",
+    "url": "https://windigone.nekoweb.org/"
+  },
+  {
+    "name": "wallgof",
+    "button": "https://eggring.neocities.org/buttons/wallgof.gif",
+    "url": "https://wallgof.neocities.org/"
+  },
+  {
+    "name": "moostyswixsite",
+    "button": "https://eggring.neocities.org/buttons/moosyu.gif",
     "url": "https://moosyu.nekoweb.org/"
   }
 ]
