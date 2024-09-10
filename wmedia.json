@@ -1,4 +1,10 @@
 [
+            {
+            "type": "Movie",
+            "name": "The Darkest Minds",
+            "score": 3.1,
+            "description": "half the reviews in letterboxd were thirsting over harris dickinson and honestly agreed"
+      },
       {
             "type": "Movie",
             "name": "Twilight",
