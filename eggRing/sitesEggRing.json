@@ -178,5 +178,35 @@
     "name": "moostyswixsite",
     "button": "https://eggring.neocities.org/buttons/moosyu.gif",
     "url": "https://moosyu.nekoweb.org/"
+  },
+  {
+    "name": "auroradynia",
+    "button": "https://eggring.neocities.org/buttons/auroradynia.gif",
+    "url": "https://auroradynia.com/"
+  },
+  {
+    "name": "alicescoolwebsite",
+    "button": "https://eggring.neocities.org/buttons/alicescoolwebsite.gif",
+    "url": "https://alicesdumbstuff.neocities.org/"
+  },
+  {
+    "name": "pentumbra",
+    "button": "https://eggring.neocities.org/buttons/pentumbra.gif",
+    "url": "https://pentumbra.neocities.org/"
+  },
+  {
+    "name": "kud",
+    "button": "https://eggring.neocities.org/buttons/kud.gif",
+    "url": "https://sunkud.neocities.org/"
+  },
+  {
+    "name": "rockseize",
+    "button": "https://eggring.neocities.org/buttons/roxy.gif",
+    "url": "https://rockseize.neocities.org/"
+  },
+  {
+    "name": "graphixbox",
+    "button": "https://eggring.neocities.org/buttons/graphixbox.gif",
+    "url": "https://graphixbox.neocities.org/"
   }
 ]
