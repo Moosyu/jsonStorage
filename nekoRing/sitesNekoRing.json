@@ -418,5 +418,10 @@
     "name": "ne0light",
     "desc": "n/a",
     "url": "https://ne0light.nekoweb.org/"
+  },
+  {
+    "name": "agoraroad",
+    "desc": "n/a",
+    "url": "https://agoraroad.nekoweb.org"
   }
 ]
