@@ -428,5 +428,20 @@
     "name": "martin",
     "desc": "n/a",
     "url": "https://martin.nekoweb.org/"
+  },
+  {
+    "name": "raeum",
+    "desc": "n/a",
+    "url": "https://raeum.nekoweb.org/"
+  },
+  {
+    "name": "delta",
+    "desc": "DeltaFrost is a digital website encased inside an ice cube, but it's guaranteed* to melt your heart! (*Not actually guaranteed.)",
+    "url": "https://deltafrost.nekoweb.org/"
+  },
+  {
+    "name": "marsh",
+    "desc": "n/a",
+    "url": "https://marsh.nekoweb.org"
   }
 ]
