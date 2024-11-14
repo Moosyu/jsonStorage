@@ -13,7 +13,7 @@ with open(input_js_file, 'r') as file:
 # "([^"]+)" looks for the name inside quotes, the [^"]+ matches characters not in double quotes
 # \s* matches any whitespace in beetween
 # "([^"]*)" matches for the button, the * is here bc button can be empty
-# "([^"]+)" same as the first one 
+# "([^"]+)" same as the first one
 site_list_pattern = r'new webringMember\("([^"]+)",\s*"([^"]*)",\s*"([^"]+)"\)'
 
 # gets matches from site_list_pattern

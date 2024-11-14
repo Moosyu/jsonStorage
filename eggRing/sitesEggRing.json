@@ -195,7 +195,7 @@
     "url": "https://pentumbra.neocities.org/"
   },
   {
-    "name": "kud",
+    "name": "\u00e2kud",
     "button": "https://eggring.neocities.org/buttons/kud.gif",
     "url": "https://sunkud.neocities.org/"
   },
@@ -208,5 +208,45 @@
     "name": "graphixbox",
     "button": "https://eggring.neocities.org/buttons/graphixbox.gif",
     "url": "https://graphixbox.neocities.org/"
+  },
+  {
+    "name": "lapislabel",
+    "button": "https://eggring.neocities.org/buttons/lapislabel.gif",
+    "url": "https://lapislabel.net/"
+  },
+  {
+    "name": "theshoreofnihl",
+    "button": "https://eggring.neocities.org/buttons/santana.gif",
+    "url": "https://exnihl.neocities.org/"
+  },
+  {
+    "name": "sugarhouse",
+    "button": "https://eggring.neocities.org/buttons/nobutton.gif",
+    "url": "https://sugarhouse.neocities.org/"
+  },
+  {
+    "name": "pudingoii",
+    "button": "https://eggring.neocities.org/buttons/Pudingoii.gif",
+    "url": "https://pudingoii.neocities.org/"
+  },
+  {
+    "name": "introvertedloser",
+    "button": "https://eggring.neocities.org/buttons/flowerloser.png",
+    "url": "https://introvertedloser.neocities.org/"
+  },
+  {
+    "name": "crystalclearcrystalline",
+    "button": "https://eggring.neocities.org/buttons/crystalline.png",
+    "url": "https://crystalclearcrystalline.neocities.org/"
+  },
+  {
+    "name": "astrashome3",
+    "button": "https://eggring.neocities.org/buttons/astra.png",
+    "url": "https://astracelestine.nekoweb.org/"
+  },
+  {
+    "name": "zorp",
+    "button": "https://eggring.neocities.org/buttons/zorp.png",
+    "url": "https://zorp.neocities.org/"
   }
 ]

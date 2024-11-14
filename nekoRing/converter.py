@@ -11,11 +11,11 @@ def parse_js_to_json(js_content):
     sites_match = re.search(r'var\s+sites\s*=\s*\[(.*?)\];', js_content, re.DOTALL)
     if not sites_match:
         raise ValueError("sites isnt in the js file loaded !!")
-    
+
     # sites_match_group(1) is grabbing the regex group, the 1 is just the group number even tho we only have 1 group anyways.
-    # strip is removing whitespace 
+    # strip is removing whitespace
     sites_cleaned = sites_match.group(1).strip()
-    
+
     # this is going through the cleaned data and pulling every singular site.
     # [^\]]* is matching for everythingb but the closing square bracket
     # (* just means everything)
@@ -31,7 +31,7 @@ def parse_js_to_json(js_content):
         # skips over things that dont have urls
         if len(sites) < 1:
             continue
-        
+
         # grabbing the url (because the url is always first) and getting rid of whitespace
         url = sites[0].strip()
 
